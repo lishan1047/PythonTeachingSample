@@ -27,8 +27,20 @@ class Person:
     def __init__(self, name, gender):
         self.__name = name
         self.__gender = gender
-    def getName(self):
+    def GetName(self):
         return self.__name
-    def getGender(self):
+    def GetGender(self):
         return self.__gender
 
+p = Person('Liu', Gender.Male)
+
+print('{0} is {1}'.format(p.GetName(), p.GetGender()))
+
+'''
+* Can we access p.__name or p.__gender ?
+'''
+
+p.__name = 'Zhang'
+p.__gender = Gender.Female
+
+print('{0} is {1}'.format(p.GetName(), p.GetGender()))
