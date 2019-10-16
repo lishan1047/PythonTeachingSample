@@ -6,6 +6,19 @@
 4. 特征：抽象性、封装性、多态性
 """
 
+'''
+In this sample, I will show the basic features to students.
+* What is the Class.
+* What is the Object.
+* What is the Property.
+* What is the Behavious.
+* What is the Construct Method.
+* What is the Abstract Method.
+* What is the Capsulation.
+* What is the Inheritance.
+* What is the Polymorphism.
+'''
+
 import abc
 
 class Person(metaclass=abc.ABCMeta):

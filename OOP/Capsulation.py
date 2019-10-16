@@ -6,7 +6,14 @@
 4. 特征：抽象性、封装性、多态性
 """
 '''
-    Definition of Class.
+First I will tell students what is Capsulational Definition of Class.
+By the way, what is the enum data type will be introduced.
+
+* Class code.
+* Members of Class.
+* Private members of Class.
+* Public members of Class.
+* Construct Method with parameters.
 '''
 
 from enum import Enum
@@ -25,5 +32,3 @@ class Person:
     def getGender(self):
         return self.__gender
 
-p = Person('Liu', Gender.Male)
-print('{0} is a {1} person.'.format(p.getName(), p.getGender().name))
