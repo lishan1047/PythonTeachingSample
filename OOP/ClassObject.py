@@ -11,7 +11,8 @@ class Circle:
         return 3.14 * self.Radius * self.Radius
 
 c = Circle(3)
-print("The circle's radius is {0}. It's area is {1:.2f}.".format(c.Radius, c.GetArea()))
+print("The circle's radius is {0}. It's area is {1:.2f}."
+    .format(c.Radius, c.GetArea()))
 
 # 编写一个代表矩形的类，其具备：
 # （1）长、宽属性
@@ -121,7 +122,7 @@ class DataTable:
                 x = r[index]
         return x
     def GetStdDevOnColumn(self, index):
-        avg = self.GetAverageOnColumn(1)
+        avg = self.GetAverageOnColumn(index)
         x = 0
         for r in self.Rows:
             x += (r[index]-avg)**2
@@ -162,9 +163,9 @@ dt.Rows.append((2,2,43,2))
 dt.Rows.append((3,2,34,3))
 dt.Rows.append((4,1,25,3))
 
-print(dt.GetSumOnColumn(1))
-print(dt.GetAverageOnColumn(1))
-print(dt.GetMaxOnColumn(1))
-print(dt.GetMinOnColumn(1))
-print(dt.GetStdDevOnColumn(1))
+print(dt.GetSumOnColumn(3))
+print(dt.GetAverageOnColumn(3))
+print(dt.GetMaxOnColumn(3))
+print(dt.GetMinOnColumn(3))
+print(dt.GetStdDevOnColumn(3))
 print(dt)
