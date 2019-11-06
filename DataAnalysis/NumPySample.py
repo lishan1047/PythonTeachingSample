@@ -10,6 +10,16 @@ b = np.random.randn(12).reshape(3, 4)
 print(b)
 
 print(a + b)
+print(a - b)
+print(a * b)
+print(a * 2)
+print(a.T)
+print(a.T.dot(a))
+print('------------------------------------------------')
+print(np.abs(a))
+print('------------------------------------------------')
+print(np.cos(a))
+print('------------------------------------------------')
 
 c = np.arange(-9, 9).reshape(3,6)
 c[c > 0] = 1
