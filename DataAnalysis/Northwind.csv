@@ -1,0 +1,2157 @@
+OrderYear,OrderMonth,CategoryName,ProductName,Quantity,Sales
+1996,7,Dairy Products,Queso Cabrales,12,168
+1996,7,Grains/Cereals,Singaporean Hokkien Fried Mee,10,98
+1996,7,Dairy Products,Mozzarella di Giovanni,5,174
+1996,7,Produce,Tofu,9,167.4
+1996,7,Produce,Manjimup Dried Apples,40,1696
+1996,7,Seafood,Jack's New England Clam Chowder,10,77
+1996,7,Produce,Manjimup Dried Apples,35,1484
+1996,7,Condiments,Louisiana Fiery Hot Pepper Sauce,15,252
+1996,7,Grains/Cereals,Gustaf's Kn?ckebr?d,6,100.8
+1996,7,Grains/Cereals,Ravioli Angelo,15,234
+1996,7,Condiments,Louisiana Fiery Hot Pepper Sauce,20,336
+1996,7,Confections,Sir Rodney's Marmalade,40,2592
+1996,7,Dairy Products,Geitost,25,50
+1996,7,Dairy Products,Camembert Pierrot,40,1088
+1996,7,Dairy Products,Gorgonzola Telino,20,200
+1996,7,Beverages,Chartreuse verte,42,604.8
+1996,7,Confections,Maxilaku,40,640
+1996,7,Beverages,Guaran¨¢ Fant¨¢stica,15,54
+1996,7,Meat/Poultry,P?t¨¦ chinois,21,403.2
+1996,7,Produce,Longlife Tofu,21,168
+1996,7,Beverages,Chang,20,304
+1996,7,Confections,Pavlova,35,486.5
+1996,7,Seafood,Inlagd Sill,25,380
+1996,7,Dairy Products,Raclette Courdavault,31,1364
+1996,7,Meat/Poultry,Perth Pasties,15,393
+1996,7,Condiments,Original Frankfurter gr¨¹ne So?e,12,124.8
+1996,7,Confections,Schoggi Schokolade,25,877.5
+1996,7,Beverages,Chartreuse verte,6,86.4
+1996,7,Condiments,Original Frankfurter gr¨¹ne So?e,15,156
+1996,7,Beverages,Chang,50,760
+1996,7,Condiments,Chef Anton's Gumbo Mix,65,1105
+1996,7,Dairy Products,Mascarpone Fabioli,6,153.6
+1996,7,Confections,Sir Rodney's Scones,10,80
+1996,7,Seafood,Gravad lax,1,20.8
+1996,7,Seafood,Jack's New England Clam Chowder,16,123.2
+1996,7,Grains/Cereals,Ravioli Angelo,50,780
+1996,7,Confections,Tarte au sucre,15,591
+1996,7,Beverages,Outback Lager,21,252
+1996,7,Confections,Sir Rodney's Scones,20,160
+1996,7,Beverages,Steeleye Stout,20,288
+1996,7,Condiments,Chef Anton's Gumbo Mix,12,204
+1996,7,Produce,Uncle Bob's Organic Dried Pears,15,360
+1996,7,Grains/Cereals,Gnocchi di nonna Alice,2,60.8
+1996,7,Confections,Pavlova,60,834
+1996,7,Beverages,Guaran¨¢ Fant¨¢stica,28,100.8
+1996,7,Seafood,Nord-Ost Matjeshering,60,1242
+1996,7,Produce,Longlife Tofu,36,288
+1996,7,Beverages,Chang,35,532
+1996,7,Seafood,Jack's New England Clam Chowder,25,192.5
+1996,7,Meat/Poultry,Alice Mutton,30,936
+1996,7,Beverages,Outback Lager,20,240
+1996,7,Dairy Products,Queso Manchego La Pastora,12,364.8
+1996,7,Seafood,Boston Crab Meat,50,735
+1996,7,Dairy Products,Raclette Courdavault,70,3080
+1996,7,Beverages,Lakkalik??ri,15,216
+1996,7,Meat/Poultry,Th¨¹ringer Rostbratwurst,10,990
+1996,7,Dairy Products,Mozzarella di Giovanni,4,111.2
+1996,7,Dairy Products,Geitost,60,120
+1996,7,Dairy Products,Mozzarella di Giovanni,20,556
+1996,8,Seafood,Inlagd Sill,30,456
+1996,8,Beverages,Ipoh Coffee,25,920
+1996,8,Dairy Products,Geitost,24,48
+1996,8,Confections,Sir Rodney's Marmalade,6,388.8
+1996,8,Dairy Products,Gorgonzola Telino,40,400
+1996,8,Dairy Products,Mozzarella di Giovanni,24,667.2
+1996,8,Seafood,Ikura,24,595.2
+1996,8,Dairy Products,Gorgonzola Telino,15,150
+1996,8,Dairy Products,Geitost,20,40
+1996,8,Seafood,Boston Crab Meat,60,882
+1996,8,Beverages,Lakkalik??ri,33,475.2
+1996,8,Dairy Products,Flotemysost,20,344
+1996,8,Dairy Products,Mozzarella di Giovanni,7,194.6
+1996,8,Beverages,Guaran¨¢ Fant¨¢stica,12,43.2
+1996,8,Dairy Products,Raclette Courdavault,6,264
+1996,8,Seafood,Ikura,15,372
+1996,8,Seafood,Konbu,10,48
+1996,8,Produce,R?ssle Sauerkraut,20,728
+1996,8,Confections,Tarte au sucre,12,472.8
+1996,8,Condiments,Gula Malacca,16,248
+1996,8,Dairy Products,Raclette Courdavault,15,660
+1996,8,Condiments,Vegie-spread,8,280.8
+1996,8,Seafood,R?d Kaviar,25,300
+1996,8,Meat/Poultry,Alice Mutton,15,468
+1996,8,Beverages,Guaran¨¢ Fant¨¢stica,12,43.2
+1996,8,Meat/Poultry,P?t¨¦ chinois,20,384
+1996,8,Beverages,Rh?nbr?u Klosterbier,30,186
+1996,8,Confections,Teatime Chocolate Biscuits,1,7.3
+1996,8,Beverages,Guaran¨¢ Fant¨¢stica,6,21.6
+1996,8,Beverages,Steeleye Stout,4,57.6
+1996,8,Seafood,Nord-Ost Matjeshering,6,124.2
+1996,8,Grains/Cereals,Ravioli Angelo,2,31.2
+1996,8,Condiments,Genen Shouyu,20,248
+1996,8,Confections,Teatime Chocolate Biscuits,18,131.4
+1996,8,Dairy Products,Camembert Pierrot,35,952
+1996,8,Dairy Products,Mozzarella di Giovanni,3,83.4
+1996,8,Confections,Schoggi Schokolade,15,526.5
+1996,8,Condiments,Gula Malacca,21,325.5
+1996,8,Dairy Products,Camembert Pierrot,20,544
+1996,8,Beverages,Laughing Lumberjack Lager,5,56
+1996,8,Beverages,Chai,45,648
+1996,8,Seafood,Boston Crab Meat,40,588
+1996,8,Meat/Poultry,Perth Pasties,36,943.2
+1996,8,Beverages,Steeleye Stout,100,1440
+1996,8,Confections,Tarte au sucre,40,1576
+1996,8,Confections,Pavlova,40,556
+1996,8,Beverages,Sasquatch Ale,20,224
+1996,8,Seafood,Spegesild,15,144
+1996,8,Meat/Poultry,Tourti¨¨re,10,59
+1996,8,Confections,Scottish Longbreads,3,30
+1996,8,Condiments,Aniseed Syrup,30,240
+1996,8,Grains/Cereals,Wimmers gute Semmelkn?del,9,239.4
+1996,8,Condiments,Chef Anton's Gumbo Mix,20,340
+1996,8,Meat/Poultry,Th¨¹ringer Rostbratwurst,15,1485
+1996,8,Confections,Maxilaku,15,240
+1996,8,Condiments,Original Frankfurter gr¨¹ne So?e,10,104
+1996,8,Seafood,Konbu,20,96
+1996,8,Condiments,Gula Malacca,24,372
+1996,8,Produce,Manjimup Dried Apples,2,84.8
+1996,8,Confections,Sir Rodney's Marmalade,20,1296
+1996,8,Seafood,Carnarvon Tigers,12,600
+1996,8,Beverages,Guaran¨¢ Fant¨¢stica,10,36
+1996,8,Condiments,Vegie-spread,5,175.5
+1996,8,Beverages,Rh?nbr?u Klosterbier,6,37.2
+1996,8,Beverages,Chai,18,259.2
+1996,8,Meat/Poultry,Alice Mutton,15,468
+1996,8,Beverages,Ipoh Coffee,15,552
+1996,8,Dairy Products,Camembert Pierrot,21,571.2
+1996,8,Beverages,Rh?nbr?u Klosterbier,6,37.2
+1996,9,Grains/Cereals,Gnocchi di nonna Alice,4,121.6
+1996,9,Dairy Products,Queso Cabrales,12,201.6
+1996,9,Confections,Pavlova,30,417
+1996,9,Dairy Products,Gudbrandsdalsost,15,432
+1996,9,Beverages,Chartreuse verte,60,864
+1996,9,Dairy Products,Mozzarella di Giovanni,20,556
+1996,9,Beverages,Chang,40,608
+1996,9,Seafood,Inlagd Sill,40,608
+1996,9,Dairy Products,Raclette Courdavault,30,1320
+1996,9,Confections,Tarte au sucre,15,591
+1996,9,Confections,Teatime Chocolate Biscuits,15,109.5
+1996,9,Beverages,Outback Lager,20,240
+1996,9,Condiments,Louisiana Hot Spiced Okra,30,408
+1996,9,Confections,Scottish Longbreads,20,200
+1996,9,Seafood,Boston Crab Meat,10,147
+1996,9,Grains/Cereals,Gnocchi di nonna Alice,20,608
+1996,9,Meat/Poultry,Alice Mutton,40,1248
+1996,9,Produce,R?ssle Sauerkraut,28,1019.2
+1996,9,Beverages,Ipoh Coffee,12,441.6
+1996,9,Seafood,Boston Crab Meat,40,588
+1996,9,Condiments,Louisiana Fiery Hot Pepper Sauce,30,504
+1996,9,Confections,Scottish Longbreads,15,150
+1996,9,Confections,Maxilaku,30,480
+1996,9,Dairy Products,Raclette Courdavault,10,440
+1996,9,Dairy Products,Flotemysost,2,34.4
+1996,9,Seafood,Carnarvon Tigers,25,1250
+1996,9,Meat/Poultry,Th¨¹ringer Rostbratwurst,25,2475
+1996,9,Beverages,Chartreuse verte,30,432
+1996,9,Seafood,Nord-Ost Matjeshering,10,207
+1996,9,Meat/Poultry,Perth Pasties,10,262
+1996,9,Meat/Poultry,Tourti¨¨re,5,29.5
+1996,9,Confections,Tarte au sucre,10,394
+1996,9,Confections,Scottish Longbreads,3,30
+1996,9,Dairy Products,Gudbrandsdalsost,1,28.8
+1996,9,Beverages,Outback Lager,5,60
+1996,9,Condiments,Chef Anton's Cajun Seasoning,20,352
+1996,9,Condiments,Grandma's Boysenberry Spread,30,600
+1996,9,Grains/Cereals,Singaporean Hokkien Fried Mee,2,22.4
+1996,9,Beverages,Ipoh Coffee,20,736
+1996,9,Dairy Products,Flotemysost,3,51.6
+1996,9,Confections,Pavlova,10,139
+1996,9,Confections,Tarte au sucre,5,197
+1996,9,Grains/Cereals,Singaporean Hokkien Fried Mee,6,67.2
+1996,9,Dairy Products,Gudbrandsdalsost,7,201.6
+1996,9,Produce,R?ssle Sauerkraut,4,145.6
+1996,9,Beverages,Ipoh Coffee,24,883.2
+1996,9,Meat/Poultry,Perth Pasties,20,524
+1996,9,Beverages,Rh?nbr?u Klosterbier,10,62
+1996,9,Seafood,Inlagd Sill,12,182.4
+1996,9,Dairy Products,Mascarpone Fabioli,40,1024
+1996,9,Seafood,Escargots de Bourgogne,30,318
+1996,9,Confections,Tarte au sucre,25,985
+1996,9,Beverages,Sasquatch Ale,14,156.8
+1996,9,Beverages,Outback Lager,30,360
+1996,9,Seafood,Jack's New England Clam Chowder,10,77
+1996,9,Confections,Tarte au sucre,70,2758
+1996,9,Beverages,Chai,20,288
+1996,10,Seafood,Jack's New England Clam Chowder,20,154
+1996,10,Beverages,Lakkalik??ri,6,86.4
+1996,10,Meat/Poultry,Alice Mutton,8,249.6
+1996,10,Produce,R?ssle Sauerkraut,14,509.6
+1996,10,Beverages,Lakkalik??ri,30,432
+1996,10,Dairy Products,Flotemysost,30,516
+1996,10,Beverages,Steeleye Stout,10,144
+1996,10,Grains/Cereals,Filo Mix,20,112
+1996,10,Condiments,Genen Shouyu,5,62
+1996,10,Confections,NuNuCa Nu?-Nougat-Creme,4,44.8
+1996,10,Beverages,Chartreuse verte,4,57.6
+1996,10,Confections,Pavlova,21,291.9
+1996,10,Beverages,Steeleye Stout,70,1008
+1996,10,Seafood,Spegesild,30,288
+1996,10,Dairy Products,Raclette Courdavault,40,1760
+1996,10,Condiments,Vegie-spread,80,2808
+1996,10,Condiments,Grandma's Boysenberry Spread,6,120
+1996,10,Seafood,Konbu,12,57.6
+1996,10,Produce,Tofu,9,167.4
+1996,10,Dairy Products,Gorgonzola Telino,4,40
+1996,10,Dairy Products,Mozzarella di Giovanni,40,1112
+1996,10,Condiments,Chef Anton's Cajun Seasoning,24,422.4
+1996,10,Grains/Cereals,Ravioli Angelo,16,249.6
+1996,10,Beverages,Rh?nbr?u Klosterbier,50,310
+1996,10,Beverages,Chang,25,380
+1996,10,Dairy Products,Queso Cabrales,50,840
+1996,10,Seafood,Nord-Ost Matjeshering,35,724.5
+1996,10,Seafood,Escargots de Bourgogne,30,318
+1996,10,Dairy Products,Raclette Courdavault,9,396
+1996,10,Condiments,Louisiana Fiery Hot Pepper Sauce,40,672
+1996,10,Confections,Scottish Longbreads,10,100
+1996,10,Confections,Teatime Chocolate Biscuits,10,73
+1996,10,Seafood,Nord-Ost Matjeshering,8,165.6
+1996,10,Beverages,C?te de Blaye,20,4216
+1996,10,Grains/Cereals,Gnocchi di nonna Alice,12,364.8
+1996,10,Confections,Gumb?r Gummib?rchen,50,1245
+1996,10,Dairy Products,Mozzarella di Giovanni,25,695
+1996,10,Meat/Poultry,Tourti¨¨re,15,88.5
+1996,10,Seafood,Carnarvon Tigers,40,2000
+1996,10,Grains/Cereals,Singaporean Hokkien Fried Mee,10,112
+1996,10,Confections,Zaanse koeken,16,121.6
+1996,10,Produce,Tofu,10,186
+1996,10,Confections,Sir Rodney's Scones,10,80
+1996,10,Dairy Products,Flotemysost,40,688
+1996,10,Grains/Cereals,Filo Mix,8,44.8
+1996,10,Confections,Scottish Longbreads,10,100
+1996,10,Beverages,Chang,7,106.4
+1996,10,Dairy Products,Gorgonzola Telino,25,250
+1996,10,Dairy Products,Mascarpone Fabioli,6,153.6
+1996,10,Produce,Manjimup Dried Apples,48,2035.2
+1996,10,Condiments,Chef Anton's Cajun Seasoning,18,316.8
+1996,10,Grains/Cereals,Tunnbr?d,40,288
+1996,10,Confections,Gumb?r Gummib?rchen,24,597.6
+1996,10,Seafood,Inlagd Sill,20,304
+1996,10,Seafood,Gravad lax,28,582.4
+1996,10,Dairy Products,Mozzarella di Giovanni,25,695
+1996,10,Meat/Poultry,Alice Mutton,20,624
+1996,10,Seafood,Nord-Ost Matjeshering,15,310.5
+1996,10,Condiments,Chef Anton's Cajun Seasoning,10,176
+1996,10,Meat/Poultry,Alice Mutton,70,2184
+1996,10,Confections,Tarte au sucre,28,1103.2
+1996,10,Seafood,Carnarvon Tigers,20,1000
+1996,10,Seafood,Jack's New England Clam Chowder,12,92.4
+1996,10,Beverages,Ipoh Coffee,40,1472
+1996,10,Dairy Products,Geitost,8,16
+1996,10,Dairy Products,Raclette Courdavault,9,396
+1996,10,Beverages,Chang,24,364.8
+1996,10,Dairy Products,Gorgonzola Telino,56,560
+1996,10,Seafood,Inlagd Sill,40,608
+1996,10,Meat/Poultry,P?t¨¦ chinois,40,768
+1996,10,Grains/Cereals,Wimmers gute Semmelkn?del,50,1330
+1996,10,Confections,Scottish Longbreads,4,40
+1996,10,Beverages,Lakkalik??ri,15,216
+1996,11,Condiments,Chef Anton's Cajun Seasoning,35,616
+1996,11,Condiments,Northwoods Cranberry Sauce,70,2240
+1996,11,Condiments,Northwoods Cranberry Sauce,70,2240
+1996,11,Confections,Teatime Chocolate Biscuits,80,584
+1996,11,Grains/Cereals,Singaporean Hokkien Fried Mee,9,100.8
+1996,11,Meat/Poultry,Alice Mutton,36,1123.2
+1996,11,Grains/Cereals,Gnocchi di nonna Alice,20,608
+1996,11,Confections,NuNuCa Nu?-Nougat-Creme,10,112
+1996,11,Beverages,Chartreuse verte,50,720
+1996,11,Seafood,Boston Crab Meat,4,58.8
+1996,11,Beverages,Rh?nbr?u Klosterbier,6,37.2
+1996,11,Beverages,Chai,15,216
+1996,11,Grains/Cereals,Tunnbr?d,25,180
+1996,11,Meat/Poultry,Tourti¨¨re,24,141.6
+1996,11,Confections,Valkoinen suklaa,15,195
+1996,11,Dairy Products,Gudbrandsdalsost,18,518.4
+1996,11,Beverages,C?te de Blaye,20,4216
+1996,11,Seafood,Jack's New England Clam Chowder,13,100.1
+1996,11,Condiments,Gula Malacca,77,1193.5
+1996,11,Condiments,Louisiana Fiery Hot Pepper Sauce,10,168
+1996,11,Beverages,Guaran¨¢ Fant¨¢stica,10,36
+1996,11,Meat/Poultry,Tourti¨¨re,20,118
+1996,11,Dairy Products,Queso Cabrales,12,201.6
+1996,11,Beverages,C?te de Blaye,50,10540
+1996,11,Beverages,Chai,12,172.8
+1996,11,Meat/Poultry,Th¨¹ringer Rostbratwurst,4,396
+1996,11,Beverages,Guaran¨¢ Fant¨¢stica,25,90
+1996,11,Grains/Cereals,Ravioli Angelo,25,390
+1996,11,Dairy Products,Gorgonzola Telino,30,300
+1996,11,Meat/Poultry,P?t¨¦ chinois,12,230.4
+1996,11,Dairy Products,Gudbrandsdalsost,20,576
+1996,11,Seafood,Ikura,30,744
+1996,11,Confections,Gumb?r Gummib?rchen,16,398.4
+1996,11,Dairy Products,Camembert Pierrot,8,217.6
+1996,11,Beverages,Guaran¨¢ Fant¨¢stica,10,36
+1996,11,Beverages,Sasquatch Ale,10,112
+1996,11,Seafood,Inlagd Sill,20,304
+1996,11,Confections,Pavlova,56,778.4
+1996,11,Dairy Products,Gorgonzola Telino,70,700
+1996,11,Dairy Products,Camembert Pierrot,80,2176
+1996,11,Produce,R?ssle Sauerkraut,30,1092
+1996,11,Meat/Poultry,Th¨¹ringer Rostbratwurst,35,3465
+1996,11,Beverages,C?te de Blaye,10,2108
+1996,11,Confections,Maxilaku,35,560
+1996,11,Meat/Poultry,Tourti¨¨re,28,165.2
+1996,11,Beverages,Chartreuse verte,54,777.6
+1996,11,Dairy Products,Camembert Pierrot,55,1496
+1996,11,Confections,NuNuCa Nu?-Nougat-Creme,50,560
+1996,11,Produce,Manjimup Dried Apples,20,848
+1996,11,Meat/Poultry,Tourti¨¨re,24,141.6
+1996,11,Dairy Products,Gorgonzola Telino,20,200
+1996,11,Beverages,Rh?nbr?u Klosterbier,12,74.4
+1996,11,Beverages,Lakkalik??ri,12,172.8
+1996,11,Dairy Products,Gudbrandsdalsost,30,864
+1996,11,Dairy Products,Flotemysost,5,86
+1996,11,Dairy Products,Queso Cabrales,24,403.2
+1996,11,Condiments,Louisiana Fiery Hot Pepper Sauce,5,84
+1996,11,Condiments,Original Frankfurter gr¨¹ne So?e,5,52
+1996,11,Beverages,Sasquatch Ale,36,403.2
+1996,11,Meat/Poultry,Tourti¨¨re,18,106.2
+1996,11,Condiments,Louisiana Fiery Hot Pepper Sauce,15,252
+1996,11,Condiments,Original Frankfurter gr¨¹ne So?e,7,72.8
+1996,11,Confections,Sir Rodney's Scones,5,40
+1996,11,Produce,R?ssle Sauerkraut,13,473.2
+1996,11,Grains/Cereals,Ravioli Angelo,25,390
+1996,11,Grains/Cereals,Wimmers gute Semmelkn?del,35,931
+1996,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,20,1980
+1996,12,Grains/Cereals,Gnocchi di nonna Alice,18,547.2
+1996,12,Beverages,Chai,15,216
+1996,12,Grains/Cereals,Wimmers gute Semmelkn?del,30,798
+1996,12,Produce,Longlife Tofu,20,160
+1996,12,Seafood,Inlagd Sill,6,91.2
+1996,12,Confections,Sir Rodney's Marmalade,12,777.6
+1996,12,Beverages,C?te de Blaye,40,8432
+1996,12,Dairy Products,Camembert Pierrot,70,1904
+1996,12,Dairy Products,Mozzarella di Giovanni,42,1167.6
+1996,12,Seafood,Escargots de Bourgogne,80,848
+1996,12,Dairy Products,Flotemysost,50,860
+1996,12,Dairy Products,Gorgonzola Telino,30,300
+1996,12,Seafood,Escargots de Bourgogne,15,159
+1996,12,Produce,Tofu,15,279
+1996,12,Meat/Poultry,Tourti¨¨re,10,59
+1996,12,Dairy Products,Gorgonzola Telino,42,420
+1996,12,Produce,R?ssle Sauerkraut,20,728
+1996,12,Beverages,Chartreuse verte,20,288
+1996,12,Dairy Products,Flotemysost,6,103.2
+1996,12,Seafood,Jack's New England Clam Chowder,8,61.6
+1996,12,Condiments,Vegie-spread,16,561.6
+1996,12,Condiments,Louisiana Fiery Hot Pepper Sauce,20,336
+1996,12,Seafood,Nord-Ost Matjeshering,18,372.6
+1996,12,Meat/Poultry,Perth Pasties,20,524
+1996,12,Dairy Products,Camembert Pierrot,6,163.2
+1996,12,Beverages,Outback Lager,30,360
+1996,12,Produce,Longlife Tofu,14,112
+1996,12,Condiments,Chef Anton's Gumbo Mix,32,544
+1996,12,Seafood,Carnarvon Tigers,9,450
+1996,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,14,1386
+1996,12,Dairy Products,Geitost,60,120
+1996,12,Produce,Longlife Tofu,50,400
+1996,12,Seafood,Konbu,20,96
+1996,12,Confections,Valkoinen suklaa,15,195
+1996,12,Grains/Cereals,Gnocchi di nonna Alice,20,608
+1996,12,Confections,Sir Rodney's Marmalade,28,1814.4
+1996,12,Dairy Products,Camembert Pierrot,15,408
+1996,12,Produce,Uncle Bob's Organic Dried Pears,10,240
+1996,12,Dairy Products,Camembert Pierrot,20,544
+1996,12,Confections,Scottish Longbreads,8,80
+1996,12,Beverages,Guaran¨¢ Fant¨¢stica,15,54
+1996,12,Beverages,Sasquatch Ale,10,112
+1996,12,Beverages,Guaran¨¢ Fant¨¢stica,15,54
+1996,12,Produce,R?ssle Sauerkraut,6,218.4
+1996,12,Dairy Products,Raclette Courdavault,12,528
+1996,12,Dairy Products,Flotemysost,15,258
+1996,12,Seafood,Rogede sild,15,114
+1996,12,Grains/Cereals,Filo Mix,20,112
+1996,12,Meat/Poultry,Perth Pasties,40,1048
+1996,12,Seafood,Ikura,16,396.8
+1996,12,Meat/Poultry,P?t¨¦ chinois,15,288
+1996,12,Confections,Tarte au sucre,20,788
+1996,12,Beverages,Outback Lager,30,360
+1996,12,Dairy Products,Gorgonzola Telino,60,600
+1996,12,Beverages,Steeleye Stout,40,576
+1996,12,Seafood,Spegesild,45,432
+1996,12,Dairy Products,Mozzarella di Giovanni,24,667.2
+1996,12,Seafood,Konbu,18,86.4
+1996,12,Dairy Products,Gudbrandsdalsost,50,1440
+1996,12,Beverages,Chang,25,380
+1996,12,Produce,Tofu,42,781.2
+1996,12,Confections,NuNuCa Nu?-Nougat-Creme,7,78.4
+1996,12,Confections,Gumb?r Gummib?rchen,70,1743
+1996,12,Dairy Products,Gorgonzola Telino,32,320
+1996,12,Seafood,Konbu,10,48
+1996,12,Confections,Tarte au sucre,10,394
+1996,12,Seafood,Spegesild,28,268.8
+1996,12,Meat/Poultry,Perth Pasties,70,1834
+1996,12,Dairy Products,Gudbrandsdalsost,8,230.4
+1996,12,Grains/Cereals,Tunnbr?d,40,288
+1996,12,Dairy Products,Flotemysost,60,1032
+1996,12,Dairy Products,Mozzarella di Giovanni,21,583.8
+1996,12,Confections,Sir Rodney's Scones,10,80
+1996,12,Produce,Manjimup Dried Apples,18,763.2
+1996,12,Beverages,Steeleye Stout,30,432
+1996,12,Meat/Poultry,P?t¨¦ chinois,120,2304
+1996,12,Confections,Scottish Longbreads,60,600
+1996,12,Dairy Products,Flotemysost,30,516
+1996,12,Beverages,Lakkalik??ri,35,504
+1996,12,Condiments,Original Frankfurter gr¨¹ne So?e,14,145.6
+1997,1,Meat/Poultry,Th¨¹ringer Rostbratwurst,21,2079
+1997,1,Beverages,Steeleye Stout,35,504
+1997,1,Confections,Maxilaku,30,480
+1997,1,Seafood,Nord-Ost Matjeshering,18,372.6
+1997,1,Grains/Cereals,Gnocchi di nonna Alice,70,2128
+1997,1,Condiments,Louisiana Fiery Hot Pepper Sauce,20,336
+1997,1,Dairy Products,Flotemysost,60,1032
+1997,1,Grains/Cereals,Tunnbr?d,60,432
+1997,1,Condiments,Vegie-spread,65,2281.5
+1997,1,Confections,Pavlova,21,291.9
+1997,1,Confections,Chocolade,70,714
+1997,1,Confections,Gumb?r Gummib?rchen,30,747
+1997,1,Grains/Cereals,Singaporean Hokkien Fried Mee,40,448
+1997,1,Confections,Maxilaku,30,480
+1997,1,Condiments,Aniseed Syrup,50,400
+1997,1,Beverages,Chai,10,144
+1997,1,Confections,Sir Rodney's Scones,30,240
+1997,1,Produce,R?ssle Sauerkraut,42,1528.8
+1997,1,Seafood,Inlagd Sill,5,76
+1997,1,Seafood,Boston Crab Meat,2,29.4
+1997,1,Dairy Products,Queso Cabrales,30,504
+1997,1,Dairy Products,Gudbrandsdalsost,15,432
+1997,1,Dairy Products,Flotemysost,15,258
+1997,1,Seafood,Gravad lax,10,208
+1997,1,Meat/Poultry,Tourti¨¨re,6,35.4
+1997,1,Confections,Tarte au sucre,35,1379
+1997,1,Produce,Tofu,12,223.2
+1997,1,Confections,Sir Rodney's Scones,12,96
+1997,1,Dairy Products,Geitost,49,98
+1997,1,Dairy Products,Raclette Courdavault,16,704
+1997,1,Seafood,Jack's New England Clam Chowder,25,192.5
+1997,1,Condiments,Gula Malacca,40,620
+1997,1,Dairy Products,Raclette Courdavault,9,396
+1997,1,Produce,Tofu,20,372
+1997,1,Beverages,Chai,24,345.6
+1997,1,Confections,Tarte au sucre,40,1576
+1997,1,Beverages,Lakkalik??ri,14,201.6
+1997,1,Confections,Teatime Chocolate Biscuits,18,131.4
+1997,1,Dairy Products,Geitost,50,100
+1997,1,Meat/Poultry,Alice Mutton,2,62.4
+1997,1,Dairy Products,Geitost,20,40
+1997,1,Confections,Teatime Chocolate Biscuits,20,146
+1997,1,Meat/Poultry,Perth Pasties,10,262
+1997,1,Grains/Cereals,Ravioli Angelo,20,312
+1997,1,Beverages,C?te de Blaye,50,10540
+1997,1,Seafood,Spegesild,2,19.2
+1997,1,Confections,Scottish Longbreads,36,360
+1997,1,Condiments,Original Frankfurter gr¨¹ne So?e,35,364
+1997,1,Beverages,Chang,60,912
+1997,1,Confections,Zaanse koeken,55,418
+1997,1,Condiments,Sirop d'¨¦rable,16,364.8
+1997,1,Produce,Longlife Tofu,15,120
+1997,1,Dairy Products,Camembert Pierrot,60,1632
+1997,1,Dairy Products,Gudbrandsdalsost,20,576
+1997,1,Meat/Poultry,Mishi Kobe Niku,20,1552
+1997,1,Seafood,Konbu,2,9.6
+1997,1,Beverages,Outback Lager,8,96
+1997,1,Seafood,R?d Kaviar,20,240
+1997,1,Confections,Teatime Chocolate Biscuits,4,29.2
+1997,1,Confections,Gumb?r Gummib?rchen,30,747
+1997,1,Meat/Poultry,Perth Pasties,15,393
+1997,1,Condiments,Original Frankfurter gr¨¹ne So?e,10,104
+1997,1,Confections,Gumb?r Gummib?rchen,2,49.8
+1997,1,Dairy Products,Gorgonzola Telino,14,140
+1997,1,Dairy Products,Raclette Courdavault,20,880
+1997,1,Beverages,Steeleye Stout,60,864
+1997,1,Beverages,C?te de Blaye,49,10329.2
+1997,1,Confections,Scottish Longbreads,30,300
+1997,1,Meat/Poultry,P?t¨¦ chinois,10,192
+1997,1,Beverages,Lakkalik??ri,20,288
+1997,1,Grains/Cereals,Gnocchi di nonna Alice,5,152
+1997,1,Grains/Cereals,Wimmers gute Semmelkn?del,7,186.2
+1997,1,Produce,Tofu,35,651
+1997,1,Seafood,Spegesild,20,192
+1997,1,Confections,Valkoinen suklaa,40,520
+1997,1,Condiments,Vegie-spread,35,1228.5
+1997,1,Meat/Poultry,Alice Mutton,45,1404
+1997,1,Confections,Sir Rodney's Scones,50,400
+1997,1,Grains/Cereals,Gnocchi di nonna Alice,30,912
+1997,1,Dairy Products,Raclette Courdavault,70,3080
+1997,1,Meat/Poultry,Alice Mutton,50,1560
+1997,1,Seafood,Boston Crab Meat,50,735
+1997,1,Confections,Zaanse koeken,30,228
+1997,1,Confections,Gumb?r Gummib?rchen,10,249
+1997,1,Meat/Poultry,Tourti¨¨re,40,236
+1997,2,Grains/Cereals,Gnocchi di nonna Alice,28,851.2
+1997,2,Dairy Products,Queso Cabrales,6,100.8
+1997,2,Beverages,Lakkalik??ri,18,259.2
+1997,2,Beverages,Chang,10,152
+1997,2,Grains/Cereals,Gustaf's Kn?ckebr?d,12,201.6
+1997,2,Dairy Products,Mozzarella di Giovanni,10,278
+1997,2,Seafood,Spegesild,5,48
+1997,2,Grains/Cereals,Gnocchi di nonna Alice,40,1216
+1997,2,Grains/Cereals,Wimmers gute Semmelkn?del,30,798
+1997,2,Beverages,Rh?nbr?u Klosterbier,24,148.8
+1997,2,Meat/Poultry,Perth Pasties,15,393
+1997,2,Confections,Teatime Chocolate Biscuits,15,109.5
+1997,2,Beverages,Sasquatch Ale,20,224
+1997,2,Grains/Cereals,Ravioli Angelo,15,234
+1997,2,Dairy Products,Queso Manchego La Pastora,15,456
+1997,2,Confections,Pavlova,16,222.4
+1997,2,Grains/Cereals,Wimmers gute Semmelkn?del,6,159.6
+1997,2,Produce,Longlife Tofu,30,240
+1997,2,Beverages,Chang,45,684
+1997,2,Confections,Pavlova,49,681.1
+1997,2,Meat/Poultry,Th¨¹ringer Rostbratwurst,24,2376
+1997,2,Condiments,Sirop d'¨¦rable,90,2052
+1997,2,Confections,Schoggi Schokolade,50,1755
+1997,2,Dairy Products,Queso Cabrales,30,504
+1997,2,Meat/Poultry,Tourti¨¨re,80,472
+1997,2,Condiments,Louisiana Hot Spiced Okra,60,816
+1997,2,Dairy Products,Queso Cabrales,6,100.8
+1997,2,Produce,R?ssle Sauerkraut,12,436.8
+1997,2,Meat/Poultry,Alice Mutton,10,312
+1997,2,Confections,Gumb?r Gummib?rchen,15,373.5
+1997,2,Beverages,Steeleye Stout,8,115.2
+1997,2,Seafood,Jack's New England Clam Chowder,30,231
+1997,2,Beverages,Chartreuse verte,6,86.4
+1997,2,Meat/Poultry,Tourti¨¨re,15,88.5
+1997,2,Confections,Teatime Chocolate Biscuits,12,87.6
+1997,2,Beverages,Guaran¨¢ Fant¨¢stica,20,72
+1997,2,Dairy Products,Gorgonzola Telino,3,30
+1997,2,Grains/Cereals,Filo Mix,15,84
+1997,2,Confections,Teatime Chocolate Biscuits,40,292
+1997,2,Condiments,Louisiana Fiery Hot Pepper Sauce,35,588
+1997,2,Dairy Products,Flotemysost,2,34.4
+1997,2,Confections,Gumb?r Gummib?rchen,6,149.4
+1997,2,Seafood,Boston Crab Meat,20,294
+1997,2,Seafood,Ikura,14,347.2
+1997,2,Grains/Cereals,Filo Mix,20,112
+1997,2,Confections,Tarte au sucre,35,1379
+1997,2,Seafood,Ikura,20,496
+1997,2,Meat/Poultry,Tourti¨¨re,6,35.4
+1997,2,Meat/Poultry,P?t¨¦ chinois,120,2304
+1997,2,Grains/Cereals,Wimmers gute Semmelkn?del,35,931
+1997,2,Condiments,Louisiana Fiery Hot Pepper Sauce,28,470.4
+1997,2,Condiments,Original Frankfurter gr¨¹ne So?e,55,572
+1997,2,Produce,R?ssle Sauerkraut,15,546
+1997,2,Condiments,Gula Malacca,100,1550
+1997,2,Confections,Chocolade,15,153
+1997,2,Beverages,Outback Lager,25,300
+1997,2,Confections,Pavlova,20,278
+1997,2,Dairy Products,Geitost,20,40
+1997,2,Seafood,Spegesild,10,96
+1997,2,Beverages,Chartreuse verte,20,288
+1997,2,Meat/Poultry,Perth Pasties,50,1310
+1997,2,Condiments,Sirop d'¨¦rable,25,570
+1997,2,Dairy Products,Flotemysost,30,516
+1997,2,Confections,Sir Rodney's Scones,40,320
+1997,2,Confections,Maxilaku,21,336
+1997,2,Dairy Products,Raclette Courdavault,36,1584
+1997,2,Confections,Gumb?r Gummib?rchen,30,747
+1997,2,Produce,R?ssle Sauerkraut,30,1092
+1997,2,Beverages,Ipoh Coffee,20,736
+1997,2,Grains/Cereals,Gnocchi di nonna Alice,15,456
+1997,2,Dairy Products,Flotemysost,50,860
+1997,2,Produce,Uncle Bob's Organic Dried Pears,16,384
+1997,2,Seafood,Spegesild,20,192
+1997,2,Dairy Products,Mozzarella di Giovanni,40,1112
+1997,2,Confections,Scottish Longbreads,21,210
+1997,2,Beverages,Rh?nbr?u Klosterbier,4,24.8
+1997,2,Confections,Sir Rodney's Scones,40,320
+1997,2,Seafood,Nord-Ost Matjeshering,28,579.6
+1997,2,Meat/Poultry,P?t¨¦ chinois,60,1152
+1997,3,Seafood,Konbu,1,4.8
+1997,3,Grains/Cereals,Tunnbr?d,21,151.2
+1997,3,Confections,Teatime Chocolate Biscuits,21,153.3
+1997,3,Grains/Cereals,Singaporean Hokkien Fried Mee,50,560
+1997,3,Condiments,Chef Anton's Cajun Seasoning,16,281.6
+1997,3,Beverages,Ipoh Coffee,3,110.4
+1997,3,Grains/Cereals,Gnocchi di nonna Alice,30,912
+1997,3,Dairy Products,Camembert Pierrot,20,544
+1997,3,Beverages,Guaran¨¢ Fant¨¢stica,25,90
+1997,3,Meat/Poultry,Th¨¹ringer Rostbratwurst,18,1782
+1997,3,Seafood,Boston Crab Meat,20,294
+1997,3,Seafood,Rogede sild,30,228
+1997,3,Confections,Valkoinen suklaa,25,325
+1997,3,Dairy Products,Queso Cabrales,10,168
+1997,3,Seafood,Spegesild,5,48
+1997,3,Beverages,Guaran¨¢ Fant¨¢stica,28,100.8
+1997,3,Confections,NuNuCa Nu?-Nougat-Creme,12,134.4
+1997,3,Seafood,Nord-Ost Matjeshering,8,165.6
+1997,3,Beverages,Ipoh Coffee,15,552
+1997,3,Beverages,Chang,40,608
+1997,3,Confections,Pavlova,35,486.5
+1997,3,Condiments,Gula Malacca,2,31
+1997,3,Seafood,Carnarvon Tigers,30,1500
+1997,3,Grains/Cereals,Tunnbr?d,15,108
+1997,3,Grains/Cereals,Wimmers gute Semmelkn?del,8,212.8
+1997,3,Produce,Uncle Bob's Organic Dried Pears,30,720
+1997,3,Grains/Cereals,Gnocchi di nonna Alice,20,608
+1997,3,Beverages,Guaran¨¢ Fant¨¢stica,80,288
+1997,3,Produce,Manjimup Dried Apples,18,763.2
+1997,3,Dairy Products,Geitost,12,24
+1997,3,Dairy Products,Flotemysost,12,206.4
+1997,3,Produce,Tofu,12,223.2
+1997,3,Produce,R?ssle Sauerkraut,18,655.2
+1997,3,Seafood,Boston Crab Meat,21,308.7
+1997,3,Beverages,Rh?nbr?u Klosterbier,10,62
+1997,3,Dairy Products,Gorgonzola Telino,35,350
+1997,3,Condiments,Louisiana Hot Spiced Okra,60,816
+1997,3,Beverages,Lakkalik??ri,42,604.8
+1997,3,Meat/Poultry,P?t¨¦ chinois,2,38.4
+1997,3,Beverages,Outback Lager,12,144
+1997,3,Beverages,Chai,15,216
+1997,3,Confections,Sir Rodney's Scones,21,168
+1997,3,Beverages,Chartreuse verte,20,288
+1997,3,Seafood,Ikura,20,496
+1997,3,Beverages,C?te de Blaye,30,6324
+1997,3,Meat/Poultry,Perth Pasties,28,733.6
+1997,3,Dairy Products,Raclette Courdavault,60,2640
+1997,3,Grains/Cereals,Wimmers gute Semmelkn?del,30,798
+1997,3,Confections,Zaanse koeken,30,228
+1997,3,Dairy Products,Raclette Courdavault,12,528
+1997,3,Confections,Maxilaku,24,384
+1997,3,Dairy Products,Camembert Pierrot,40,1088
+1997,3,Seafood,Boston Crab Meat,10,147
+1997,3,Beverages,Sasquatch Ale,35,392
+1997,3,Condiments,Original Frankfurter gr¨¹ne So?e,30,312
+1997,3,Confections,Sir Rodney's Scones,14,112
+1997,3,Seafood,Boston Crab Meat,10,147
+1997,3,Produce,Manjimup Dried Apples,3,127.2
+1997,3,Beverages,Chang,20,304
+1997,3,Condiments,Aniseed Syrup,20,160
+1997,3,Meat/Poultry,P?t¨¦ chinois,30,576
+1997,3,Beverages,Outback Lager,60,720
+1997,3,Dairy Products,Queso Cabrales,5,84
+1997,3,Produce,Manjimup Dried Apples,25,1060
+1997,3,Produce,Longlife Tofu,16,128
+1997,3,Confections,Teatime Chocolate Biscuits,5,36.5
+1997,3,Confections,Gumb?r Gummib?rchen,30,747
+1997,3,Meat/Poultry,Tourti¨¨re,24,141.6
+1997,3,Dairy Products,Raclette Courdavault,30,1320
+1997,3,Seafood,R?d Kaviar,20,240
+1997,3,Dairy Products,Queso Cabrales,15,252
+1997,3,Confections,Pavlova,18,250.2
+1997,3,Dairy Products,Raclette Courdavault,60,2640
+1997,3,Confections,Scottish Longbreads,30,300
+1997,3,Beverages,Rh?nbr?u Klosterbier,36,223.2
+1997,3,Condiments,Gula Malacca,15,232.5
+1997,3,Condiments,Original Frankfurter gr¨¹ne So?e,7,72.8
+1997,4,Confections,NuNuCa Nu?-Nougat-Creme,60,672
+1997,4,Grains/Cereals,Singaporean Hokkien Fried Mee,20,224
+1997,4,Condiments,Louisiana Fiery Hot Pepper Sauce,15,252
+1997,4,Condiments,Louisiana Hot Spiced Okra,10,136
+1997,4,Dairy Products,Gudbrandsdalsost,10,288
+1997,4,Grains/Cereals,Gnocchi di nonna Alice,30,912
+1997,4,Grains/Cereals,Tunnbr?d,10,72
+1997,4,Seafood,Jack's New England Clam Chowder,20,154
+1997,4,Condiments,Original Frankfurter gr¨¹ne So?e,5,52
+1997,4,Dairy Products,Gorgonzola Telino,20,200
+1997,4,Grains/Cereals,Gnocchi di nonna Alice,14,425.6
+1997,4,Dairy Products,Mozzarella di Giovanni,25,695
+1997,4,Condiments,Original Frankfurter gr¨¹ne So?e,25,260
+1997,4,Beverages,Guaran¨¢ Fant¨¢stica,14,63
+1997,4,Seafood,Boston Crab Meat,5,92
+1997,4,Grains/Cereals,Singaporean Hokkien Fried Mee,30,420
+1997,4,Produce,R?ssle Sauerkraut,20,912
+1997,4,Confections,Maxilaku,25,500
+1997,4,Condiments,Genen Shouyu,12,186
+1997,4,Produce,R?ssle Sauerkraut,8,364.8
+1997,4,Meat/Poultry,Tourti¨¨re,20,149
+1997,4,Seafood,Rogede sild,21,199.5
+1997,4,Meat/Poultry,Perth Pasties,6,196.8
+1997,4,Beverages,Laughing Lumberjack Lager,30,420
+1997,4,Produce,Tofu,70,1627.5
+1997,4,Condiments,Louisiana Fiery Hot Pepper Sauce,20,421
+1997,4,Beverages,Chang,12,228
+1997,4,Confections,Sir Rodney's Scones,12,120
+1997,4,Meat/Poultry,Perth Pasties,10,328
+1997,4,Condiments,Sirop d'¨¦rable,25,712.5
+1997,4,Confections,Tarte au sucre,3,147.9
+1997,4,Confections,NuNuCa Nu?-Nougat-Creme,18,252
+1997,4,Beverages,Outback Lager,14,210
+1997,4,Beverages,Ipoh Coffee,15,690
+1997,4,Confections,Chocolade,15,191.25
+1997,4,Seafood,Konbu,10,60
+1997,4,Beverages,Chartreuse verte,10,180
+1997,4,Produce,R?ssle Sauerkraut,3,136.8
+1997,4,Meat/Poultry,Th¨¹ringer Rostbratwurst,36,4456.44
+1997,4,Beverages,Rh?nbr?u Klosterbier,36,279
+1997,4,Condiments,Chef Anton's Cajun Seasoning,50,1100
+1997,4,Produce,Uncle Bob's Organic Dried Pears,50,1500
+1997,4,Condiments,Northwoods Cranberry Sauce,10,400
+1997,4,Beverages,Guaran¨¢ Fant¨¢stica,10,45
+1997,4,Seafood,Spegesild,9,108
+1997,4,Confections,Zaanse koeken,6,57
+1997,4,Dairy Products,Camembert Pierrot,12,408
+1997,4,Confections,Sir Rodney's Scones,40,400
+1997,4,Dairy Products,Mascarpone Fabioli,50,1600
+1997,4,Condiments,Sirop d'¨¦rable,15,427.5
+1997,4,Confections,Sir Rodney's Marmalade,39,3159
+1997,4,Produce,R?ssle Sauerkraut,35,1596
+1997,4,Grains/Cereals,Gnocchi di nonna Alice,70,2660
+1997,4,Condiments,Louisiana Fiery Hot Pepper Sauce,39,820.95
+1997,4,Beverages,Rh?nbr?u Klosterbier,50,387.5
+1997,4,Meat/Poultry,Mishi Kobe Niku,16,1552
+1997,4,Confections,Pavlova,50,872.5
+1997,4,Confections,Schoggi Schokolade,120,5268
+1997,4,Dairy Products,Geitost,16,40
+1997,4,Dairy Products,Camembert Pierrot,84,2856
+1997,4,Seafood,Carnarvon Tigers,25,1562.5
+1997,4,Seafood,Jack's New England Clam Chowder,80,772
+1997,4,Grains/Cereals,Singaporean Hokkien Fried Mee,20,280
+1997,4,Grains/Cereals,Filo Mix,6,42
+1997,4,Dairy Products,Raclette Courdavault,4,220
+1997,4,Beverages,Outback Lager,6,90
+1997,4,Beverages,Guaran¨¢ Fant¨¢stica,5,22.5
+1997,4,Beverages,C?te de Blaye,15,3952.5
+1997,4,Condiments,Gula Malacca,9,175.05
+1997,4,Seafood,Ikura,16,496
+1997,4,Grains/Cereals,Gnocchi di nonna Alice,40,1520
+1997,4,Dairy Products,Camembert Pierrot,10,340
+1997,4,Beverages,Guaran¨¢ Fant¨¢stica,8,36
+1997,4,Meat/Poultry,Perth Pasties,5,164
+1997,4,Beverages,Steeleye Stout,3,54
+1997,4,Seafood,Jack's New England Clam Chowder,10,96.5
+1997,4,Confections,Scottish Longbreads,6,75
+1997,4,Beverages,Chai,40,720
+1997,4,Condiments,Northwoods Cranberry Sauce,24,960
+1997,4,Seafood,Nord-Ost Matjeshering,20,517.8
+1997,4,Seafood,Boston Crab Meat,25,460
+1997,5,Meat/Poultry,Alice Mutton,25,975
+1997,5,Confections,Sir Rodney's Marmalade,15,1215
+1997,5,Seafood,Gravad lax,18,468
+1997,5,Seafood,Jack's New England Clam Chowder,6,57.9
+1997,5,Seafood,Ikura,2,62
+1997,5,Seafood,Nord-Ost Matjeshering,10,258.9
+1997,5,Beverages,Ipoh Coffee,60,2760
+1997,5,Meat/Poultry,Tourti¨¨re,15,111.75
+1997,5,Seafood,Inlagd Sill,30,570
+1997,5,Seafood,Boston Crab Meat,15,276
+1997,5,Beverages,Chai,8,144
+1997,5,Seafood,Konbu,10,60
+1997,5,Grains/Cereals,Gnocchi di nonna Alice,30,1140
+1997,5,Condiments,Chef Anton's Cajun Seasoning,50,1100
+1997,5,Seafood,Inlagd Sill,30,570
+1997,5,Dairy Products,Queso Cabrales,3,63
+1997,5,Dairy Products,Geitost,8,20
+1997,5,Dairy Products,Mozzarella di Giovanni,9,313.2
+1997,5,Meat/Poultry,P?t¨¦ chinois,14,336
+1997,5,Confections,Scottish Longbreads,20,250
+1997,5,Dairy Products,Gudbrandsdalsost,10,360
+1997,5,Meat/Poultry,Alice Mutton,40,1560
+1997,5,Beverages,Ipoh Coffee,25,1150
+1997,5,Condiments,Sirop d'¨¦rable,20,570
+1997,5,Beverages,Lakkalik??ri,50,900
+1997,5,Dairy Products,Raclette Courdavault,2,110
+1997,5,Seafood,Nord-Ost Matjeshering,15,388.35
+1997,5,Condiments,Louisiana Hot Spiced Okra,24,408
+1997,5,Condiments,Chef Anton's Cajun Seasoning,50,1100
+1997,5,Dairy Products,Mozzarella di Giovanni,24,835.2
+1997,5,Seafood,R?d Kaviar,24,360
+1997,5,Seafood,Nord-Ost Matjeshering,10,258.9
+1997,5,Seafood,Boston Crab Meat,10,184
+1997,5,Meat/Poultry,Tourti¨¨re,10,74.5
+1997,5,Dairy Products,Queso Cabrales,50,1050
+1997,5,Seafood,Boston Crab Meat,10,184
+1997,5,Grains/Cereals,Ravioli Angelo,5,97.5
+1997,5,Dairy Products,Raclette Courdavault,15,825
+1997,5,Dairy Products,Queso Manchego La Pastora,15,570
+1997,5,Dairy Products,Gorgonzola Telino,20,250
+1997,5,Dairy Products,Geitost,30,75
+1997,5,Dairy Products,Camembert Pierrot,35,1190
+1997,5,Dairy Products,Gorgonzola Telino,30,375
+1997,5,Produce,Manjimup Dried Apples,6,318
+1997,5,Seafood,Escargots de Bourgogne,20,265
+1997,5,Dairy Products,Mozzarella di Giovanni,21,730.8
+1997,5,Seafood,R?d Kaviar,9,135
+1997,5,Beverages,Outback Lager,7,105
+1997,5,Dairy Products,Mozzarella di Giovanni,1,34.8
+1997,5,Seafood,Konbu,8,48
+1997,5,Confections,Sir Rodney's Scones,15,150
+1997,5,Dairy Products,Geitost,15,37.5
+1997,5,Confections,Maxilaku,6,120
+1997,5,Condiments,Aniseed Syrup,60,600
+1997,5,Confections,Gumb?r Gummib?rchen,40,1249.2
+1997,5,Beverages,C?te de Blaye,30,7905
+1997,5,Confections,Scottish Longbreads,35,437.5
+1997,5,Beverages,Guaran¨¢ Fant¨¢stica,35,157.5
+1997,5,Beverages,C?te de Blaye,4,1054
+1997,5,Condiments,Louisiana Fiery Hot Pepper Sauce,36,757.8
+1997,5,Dairy Products,Flotemysost,9,193.5
+1997,5,Dairy Products,Queso Cabrales,15,315
+1997,5,Meat/Poultry,Tourti¨¨re,24,178.8
+1997,5,Dairy Products,Queso Manchego La Pastora,30,1140
+1997,5,Grains/Cereals,Tunnbr?d,70,630
+1997,5,Produce,R?ssle Sauerkraut,7,319.2
+1997,5,Beverages,Laughing Lumberjack Lager,7,98
+1997,5,Dairy Products,Queso Cabrales,10,210
+1997,5,Produce,Uncle Bob's Organic Dried Pears,10,300
+1997,5,Beverages,Steeleye Stout,30,540
+1997,5,Confections,Tarte au sucre,40,1972
+1997,5,Dairy Products,Mascarpone Fabioli,24,768
+1997,5,Seafood,Inlagd Sill,60,1140
+1997,5,Beverages,Sasquatch Ale,10,140
+1997,5,Seafood,Jack's New England Clam Chowder,14,135.1
+1997,5,Dairy Products,Gorgonzola Telino,55,687.5
+1997,5,Seafood,Rogede sild,100,950
+1997,5,Produce,Manjimup Dried Apples,48,2544
+1997,5,Meat/Poultry,Alice Mutton,8,312
+1997,5,Confections,Teatime Chocolate Biscuits,10,92
+1997,5,Confections,Sir Rodney's Scones,6,60
+1997,5,Condiments,Sirop d'¨¦rable,10,285
+1997,5,Confections,Pavlova,40,698
+1997,5,Beverages,Steeleye Stout,20,360
+1997,5,Condiments,Gula Malacca,40,778
+1997,5,Dairy Products,Gudbrandsdalsost,18,648
+1997,5,Beverages,Rh?nbr?u Klosterbier,30,232.5
+1997,5,Dairy Products,Queso Cabrales,15,315
+1997,5,Confections,Pavlova,14,244.3
+1997,5,Grains/Cereals,Gustaf's Kn?ckebr?d,24,504
+1997,5,Dairy Products,Gorgonzola Telino,30,375
+1997,5,Beverages,Steeleye Stout,6,108
+1997,5,Confections,Pavlova,30,523.5
+1997,5,Grains/Cereals,Tunnbr?d,20,180
+1997,5,Confections,Tarte au sucre,20,986
+1997,5,Condiments,Original Frankfurter gr¨¹ne So?e,10,130
+1997,6,Produce,Tofu,30,697.5
+1997,6,Confections,Teatime Chocolate Biscuits,35,322
+1997,6,Beverages,Guaran¨¢ Fant¨¢stica,18,81
+1997,6,Produce,Manjimup Dried Apples,20,1060
+1997,6,Grains/Cereals,Gnocchi di nonna Alice,40,1520
+1997,6,Dairy Products,Mozzarella di Giovanni,24,835.2
+1997,6,Grains/Cereals,Wimmers gute Semmelkn?del,30,997.5
+1997,6,Beverages,Rh?nbr?u Klosterbier,20,155
+1997,6,Confections,Zaanse koeken,25,237.5
+1997,6,Produce,Manjimup Dried Apples,20,1060
+1997,6,Grains/Cereals,Filo Mix,30,210
+1997,6,Meat/Poultry,Perth Pasties,18,590.4
+1997,6,Seafood,R?d Kaviar,3,45
+1997,6,Seafood,Jack's New England Clam Chowder,12,115.8
+1997,6,Meat/Poultry,P?t¨¦ chinois,18,432
+1997,6,Seafood,Nord-Ost Matjeshering,20,517.8
+1997,6,Confections,Tarte au sucre,15,739.5
+1997,6,Condiments,Gula Malacca,10,194.5
+1997,6,Produce,Manjimup Dried Apples,50,2650
+1997,6,Dairy Products,Geitost,20,50
+1997,6,Confections,Tarte au sucre,10,493
+1997,6,Seafood,Inlagd Sill,25,475
+1997,6,Grains/Cereals,Filo Mix,70,490
+1997,6,Meat/Poultry,Alice Mutton,16,624
+1997,6,Dairy Products,Gorgonzola Telino,6,75
+1997,6,Meat/Poultry,P?t¨¦ chinois,25,600
+1997,6,Beverages,Guaran¨¢ Fant¨¢stica,25,112.5
+1997,6,Grains/Cereals,Wimmers gute Semmelkn?del,18,598.5
+1997,6,Dairy Products,Queso Cabrales,35,735
+1997,6,Seafood,Carnarvon Tigers,18,1125
+1997,6,Beverages,Lakkalik??ri,10,180
+1997,6,Dairy Products,Gorgonzola Telino,60,750
+1997,6,Produce,Manjimup Dried Apples,3,159
+1997,6,Dairy Products,Raclette Courdavault,40,2200
+1997,6,Seafood,Ikura,5,155
+1997,6,Dairy Products,Gorgonzola Telino,35,437.5
+1997,6,Beverages,Lakkalik??ri,30,540
+1997,6,Dairy Products,Queso Cabrales,15,315
+1997,6,Grains/Cereals,Gnocchi di nonna Alice,60,2280
+1997,6,Produce,Tofu,11,255.75
+1997,6,Grains/Cereals,Singaporean Hokkien Fried Mee,28,392
+1997,6,Confections,Pavlova,12,209.4
+1997,6,Dairy Products,Mascarpone Fabioli,10,320
+1997,6,Seafood,Boston Crab Meat,50,920
+1997,6,Beverages,Rh?nbr?u Klosterbier,15,116.25
+1997,6,Meat/Poultry,Alice Mutton,18,702
+1997,6,Beverages,Sasquatch Ale,40,560
+1997,6,Meat/Poultry,Perth Pasties,25,820
+1997,6,Dairy Products,Geitost,14,35
+1997,6,Seafood,Boston Crab Meat,2,36.8
+1997,6,Confections,Tarte au sucre,10,493
+1997,6,Grains/Cereals,Wimmers gute Semmelkn?del,6,199.5
+1997,6,Dairy Products,Raclette Courdavault,12,660
+1997,6,Condiments,Vegie-spread,6,263.4
+1997,6,Dairy Products,Mozzarella di Giovanni,30,1044
+1997,6,Beverages,Lakkalik??ri,10,180
+1997,6,Beverages,Chai,10,180
+1997,6,Dairy Products,Gorgonzola Telino,20,250
+1997,6,Condiments,Gula Malacca,21,408.45
+1997,6,Beverages,Chartreuse verte,10,180
+1997,6,Beverages,Rh?nbr?u Klosterbier,20,155
+1997,6,Condiments,Original Frankfurter gr¨¹ne So?e,18,234
+1997,6,Beverages,Steeleye Stout,20,360
+1997,6,Grains/Cereals,Ravioli Angelo,6,117
+1997,6,Condiments,Genen Shouyu,10,155
+1997,6,Beverages,Rh?nbr?u Klosterbier,21,162.75
+1997,6,Produce,Tofu,15,348.75
+1997,6,Seafood,Jack's New England Clam Chowder,9,86.85
+1997,6,Condiments,Louisiana Fiery Hot Pepper Sauce,30,631.5
+1997,6,Beverages,Rh?nbr?u Klosterbier,50,387.5
+1997,6,Grains/Cereals,Ravioli Angelo,4,78
+1997,6,Beverages,Lakkalik??ri,14,252
+1997,6,Meat/Poultry,Th¨¹ringer Rostbratwurst,10,1237.9
+1997,6,Dairy Products,Camembert Pierrot,24,816
+1997,6,Dairy Products,Gudbrandsdalsost,10,360
+1997,6,Dairy Products,Gorgonzola Telino,50,625
+1997,7,Confections,Zaanse koeken,15,142.5
+1997,7,Grains/Cereals,Filo Mix,4,28
+1997,7,Confections,Gumb?r Gummib?rchen,6,187.38
+1997,7,Beverages,Steeleye Stout,20,360
+1997,7,Condiments,Original Frankfurter gr¨¹ne So?e,20,260
+1997,7,Seafood,Carnarvon Tigers,40,2500
+1997,7,Grains/Cereals,Singaporean Hokkien Fried Mee,100,1400
+1997,7,Beverages,Steeleye Stout,4,72
+1997,7,Beverages,Chai,20,360
+1997,7,Condiments,Original Frankfurter gr¨¹ne So?e,60,780
+1997,7,Condiments,Aniseed Syrup,14,140
+1997,7,Produce,Uncle Bob's Organic Dried Pears,10,300
+1997,7,Meat/Poultry,Tourti¨¨re,50,372.5
+1997,7,Condiments,Genen Shouyu,25,387.5
+1997,7,Confections,Gumb?r Gummib?rchen,5,156.15
+1997,7,Confections,Sir Rodney's Marmalade,21,1701
+1997,7,Dairy Products,Gudbrandsdalsost,20,720
+1997,7,Beverages,Lakkalik??ri,4,72
+1997,7,Grains/Cereals,Filo Mix,24,168
+1997,7,Seafood,Escargots de Bourgogne,30,397.5
+1997,7,Beverages,Steeleye Stout,30,540
+1997,7,Condiments,Sirop d'¨¦rable,120,3420
+1997,7,Dairy Products,Gudbrandsdalsost,65,2340
+1997,7,Grains/Cereals,Gnocchi di nonna Alice,5,190
+1997,7,Condiments,Vegie-spread,24,1053.6
+1997,7,Beverages,Rh?nbr?u Klosterbier,30,232.5
+1997,7,Beverages,Guaran¨¢ Fant¨¢stica,35,157.5
+1997,7,Grains/Cereals,Ravioli Angelo,20,390
+1997,7,Condiments,Louisiana Fiery Hot Pepper Sauce,12,252.6
+1997,7,Confections,Schoggi Schokolade,50,2195
+1997,7,Dairy Products,Flotemysost,9,193.5
+1997,7,Confections,Tarte au sucre,10,493
+1997,7,Meat/Poultry,Tourti¨¨re,4,29.8
+1997,7,Seafood,R?d Kaviar,30,450
+1997,7,Seafood,Konbu,60,360
+1997,7,Dairy Products,Raclette Courdavault,35,1925
+1997,7,Condiments,Original Frankfurter gr¨¹ne So?e,5,65
+1997,7,Grains/Cereals,Gustaf's Kn?ckebr?d,48,1008
+1997,7,Confections,Maxilaku,25,500
+1997,7,Confections,Chocolade,6,76.5
+1997,7,Beverages,Lakkalik??ri,10,180
+1997,7,Confections,Pavlova,30,523.5
+1997,7,Dairy Products,Raclette Courdavault,20,1100
+1997,7,Dairy Products,Camembert Pierrot,70,2380
+1997,7,Dairy Products,Flotemysost,15,322.5
+1997,7,Condiments,Chef Anton's Cajun Seasoning,20,440
+1997,7,Meat/Poultry,P?t¨¦ chinois,20,480
+1997,7,Confections,Tarte au sucre,10,493
+1997,7,Produce,Uncle Bob's Organic Dried Pears,45,1350
+1997,7,Meat/Poultry,Alice Mutton,100,3900
+1997,7,Dairy Products,Geitost,14,35
+1997,7,Seafood,Boston Crab Meat,42,772.8
+1997,7,Dairy Products,Mozzarella di Giovanni,12,417.6
+1997,7,Grains/Cereals,Gnocchi di nonna Alice,28,1064
+1997,7,Beverages,Chai,3,54
+1997,7,Seafood,Ikura,10,310
+1997,7,Confections,Sir Rodney's Scones,6,60
+1997,7,Seafood,Inlagd Sill,21,399
+1997,7,Beverages,Chai,6,108
+1997,7,Beverages,Chang,10,190
+1997,7,Dairy Products,Camembert Pierrot,15,510
+1997,7,Seafood,Ikura,70,2170
+1997,7,Seafood,Inlagd Sill,55,1045
+1997,7,Confections,Maxilaku,18,360
+1997,7,Dairy Products,Camembert Pierrot,40,1360
+1997,7,Beverages,Lakkalik??ri,80,1440
+1997,7,Seafood,Konbu,8,48
+1997,7,Beverages,Rh?nbr?u Klosterbier,40,310
+1997,7,Dairy Products,Queso Cabrales,14,294
+1997,7,Confections,Sir Rodney's Scones,8,80
+1997,7,Beverages,Chartreuse verte,5,90
+1997,7,Meat/Poultry,P?t¨¦ chinois,5,120
+1997,7,Beverages,C?te de Blaye,15,3952.5
+1997,7,Grains/Cereals,Gnocchi di nonna Alice,14,532
+1997,7,Beverages,Outback Lager,15,225
+1997,7,Dairy Products,Flotemysost,15,322.5
+1997,7,Dairy Products,Raclette Courdavault,30,1650
+1997,8,Condiments,Grandma's Boysenberry Spread,70,1750
+1997,8,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1997,8,Confections,Scottish Longbreads,15,187.5
+1997,8,Confections,Sir Rodney's Scones,42,420
+1997,8,Grains/Cereals,Gustaf's Kn?ckebr?d,40,840
+1997,8,Beverages,Guaran¨¢ Fant¨¢stica,5,22.5
+1997,8,Grains/Cereals,Filo Mix,5,35
+1997,8,Confections,Teatime Chocolate Biscuits,5,46
+1997,8,Grains/Cereals,Tunnbr?d,10,90
+1997,8,Beverages,Outback Lager,20,300
+1997,8,Dairy Products,Flotemysost,15,322.5
+1997,8,Beverages,Chang,20,380
+1997,8,Confections,Scottish Longbreads,18,225
+1997,8,Produce,Tofu,21,488.25
+1997,8,Confections,Teatime Chocolate Biscuits,15,138
+1997,8,Confections,Sir Rodney's Scones,25,250
+1997,8,Beverages,Guaran¨¢ Fant¨¢stica,3,13.5
+1997,8,Beverages,Steeleye Stout,30,540
+1997,8,Produce,R?ssle Sauerkraut,10,456
+1997,8,Meat/Poultry,Th¨¹ringer Rostbratwurst,6,742.74
+1997,8,Condiments,Gula Malacca,10,194.5
+1997,8,Produce,Tofu,3,69.75
+1997,8,Grains/Cereals,Singaporean Hokkien Fried Mee,5,70
+1997,8,Dairy Products,Camembert Pierrot,10,340
+1997,8,Meat/Poultry,Perth Pasties,12,393.6
+1997,8,Dairy Products,Camembert Pierrot,20,680
+1997,8,Dairy Products,Flotemysost,20,430
+1997,8,Confections,Tarte au sucre,15,739.5
+1997,8,Seafood,R?d Kaviar,35,525
+1997,8,Beverages,Chai,25,450
+1997,8,Meat/Poultry,Th¨¹ringer Rostbratwurst,20,2475.8
+1997,8,Grains/Cereals,Wimmers gute Semmelkn?del,9,299.25
+1997,8,Meat/Poultry,P?t¨¦ chinois,12,288
+1997,8,Beverages,Lakkalik??ri,35,630
+1997,8,Beverages,Rh?nbr?u Klosterbier,8,62
+1997,8,Beverages,Chang,30,570
+1997,8,Dairy Products,Geitost,20,50
+1997,8,Dairy Products,Queso Manchego La Pastora,36,1368
+1997,8,Seafood,Konbu,13,78
+1997,8,Confections,Gumb?r Gummib?rchen,35,1093.05
+1997,8,Confections,Tarte au sucre,80,3944
+1997,8,Produce,Uncle Bob's Organic Dried Pears,35,1050
+1997,8,Seafood,Carnarvon Tigers,50,3125
+1997,8,Produce,Manjimup Dried Apples,15,795
+1997,8,Beverages,Rh?nbr?u Klosterbier,2,15.5
+1997,8,Condiments,Chef Anton's Cajun Seasoning,10,220
+1997,8,Condiments,Chef Anton's Gumbo Mix,15,320.25
+1997,8,Grains/Cereals,Gustaf's Kn?ckebr?d,40,840
+1997,8,Condiments,Chef Anton's Cajun Seasoning,25,550
+1997,8,Seafood,Escargots de Bourgogne,6,79.5
+1997,8,Dairy Products,Queso Cabrales,10,210
+1997,8,Confections,Valkoinen suklaa,25,406.25
+1997,8,Grains/Cereals,Gnocchi di nonna Alice,60,2280
+1997,8,Seafood,Rogede sild,20,190
+1997,8,Condiments,Louisiana Fiery Hot Pepper Sauce,21,442.05
+1997,8,Dairy Products,Mozzarella di Giovanni,60,2088
+1997,8,Seafood,Carnarvon Tigers,8,500
+1997,8,Dairy Products,Gudbrandsdalsost,20,720
+1997,8,Beverages,Outback Lager,15,225
+1997,8,Beverages,Chang,50,950
+1997,8,Seafood,Boston Crab Meat,60,1104
+1997,8,Confections,Sir Rodney's Scones,30,300
+1997,8,Condiments,Sirop d'¨¦rable,20,570
+1997,8,Produce,R?ssle Sauerkraut,15,684
+1997,8,Beverages,Chartreuse verte,21,378
+1997,8,Seafood,Spegesild,2,24
+1997,8,Seafood,Carnarvon Tigers,4,250
+1997,8,Beverages,Ipoh Coffee,20,920
+1997,8,Seafood,Spegesild,21,252
+1997,8,Seafood,Carnarvon Tigers,20,1250
+1997,8,Seafood,Inlagd Sill,15,285
+1997,8,Beverages,Chai,15,270
+1997,8,Seafood,Ikura,18,558
+1997,8,Dairy Products,Flotemysost,30,645
+1997,8,Condiments,Original Frankfurter gr¨¹ne So?e,35,455
+1997,8,Confections,Teatime Chocolate Biscuits,30,276
+1997,8,Beverages,Chartreuse verte,20,360
+1997,8,Grains/Cereals,Gustaf's Kn?ckebr?d,15,315
+1997,8,Beverages,Guaran¨¢ Fant¨¢stica,15,67.5
+1997,8,Produce,R?ssle Sauerkraut,20,912
+1997,8,Dairy Products,Mozzarella di Giovanni,15,522
+1997,8,Seafood,Nord-Ost Matjeshering,30,776.7
+1997,8,Meat/Poultry,Perth Pasties,25,820
+1997,8,Meat/Poultry,Tourti¨¨re,30,223.5
+1997,9,Confections,Teatime Chocolate Biscuits,12,110.4
+1997,9,Grains/Cereals,Gustaf's Kn?ckebr?d,20,420
+1997,9,Seafood,Nord-Ost Matjeshering,2,51.78
+1997,9,Grains/Cereals,Singaporean Hokkien Fried Mee,20,280
+1997,9,Confections,Pavlova,30,523.5
+1997,9,Dairy Products,Camembert Pierrot,20,680
+1997,9,Condiments,Chef Anton's Cajun Seasoning,12,264
+1997,9,Beverages,Chartreuse verte,20,360
+1997,9,Meat/Poultry,Tourti¨¨re,6,44.7
+1997,9,Seafood,Jack's New England Clam Chowder,20,193
+1997,9,Produce,Tofu,3,69.75
+1997,9,Condiments,Gula Malacca,28,544.6
+1997,9,Confections,Zaanse koeken,6,57
+1997,9,Condiments,Genen Shouyu,50,775
+1997,9,Seafood,Jack's New England Clam Chowder,24,231.6
+1997,9,Seafood,Spegesild,45,540
+1997,9,Confections,Zaanse koeken,10,95
+1997,9,Grains/Cereals,Gnocchi di nonna Alice,45,1710
+1997,9,Dairy Products,Camembert Pierrot,30,1020
+1997,9,Confections,Sir Rodney's Scones,60,600
+1997,9,Seafood,Boston Crab Meat,70,1288
+1997,9,Dairy Products,Camembert Pierrot,55,1870
+1997,9,Condiments,Original Frankfurter gr¨¹ne So?e,70,910
+1997,9,Dairy Products,Gorgonzola Telino,20,250
+1997,9,Seafood,Boston Crab Meat,24,441.6
+1997,9,Beverages,Outback Lager,40,600
+1997,9,Confections,Sir Rodney's Marmalade,21,1701
+1997,9,Beverages,Chartreuse verte,3,54
+1997,9,Seafood,Escargots de Bourgogne,49,649.25
+1997,9,Confections,Scottish Longbreads,10,125
+1997,9,Seafood,Boston Crab Meat,30,552
+1997,9,Grains/Cereals,Singaporean Hokkien Fried Mee,30,420
+1997,9,Produce,Manjimup Dried Apples,20,1060
+1997,9,Seafood,Ikura,24,744
+1997,9,Grains/Cereals,Gnocchi di nonna Alice,12,456
+1997,9,Condiments,Louisiana Fiery Hot Pepper Sauce,15,315.75
+1997,9,Produce,Manjimup Dried Apples,20,1060
+1997,9,Dairy Products,Raclette Courdavault,1,55
+1997,9,Beverages,Lakkalik??ri,10,180
+1997,9,Meat/Poultry,Th¨¹ringer Rostbratwurst,36,4456.44
+1997,9,Condiments,Louisiana Fiery Hot Pepper Sauce,10,210.5
+1997,9,Dairy Products,Gudbrandsdalsost,45,1620
+1997,9,Dairy Products,Flotemysost,14,301
+1997,9,Dairy Products,Gorgonzola Telino,8,100
+1997,9,Meat/Poultry,P?t¨¦ chinois,4,96
+1997,9,Grains/Cereals,Wimmers gute Semmelkn?del,15,498.75
+1997,9,Seafood,Inlagd Sill,30,570
+1997,9,Grains/Cereals,Tunnbr?d,32,288
+1997,9,Seafood,Spegesild,60,720
+1997,9,Beverages,Laughing Lumberjack Lager,25,350
+1997,9,Seafood,R?d Kaviar,50,750
+1997,9,Beverages,Rh?nbr?u Klosterbier,25,193.75
+1997,9,Confections,Pavlova,10,174.5
+1997,9,Confections,Tarte au sucre,10,493
+1997,9,Condiments,Louisiana Fiery Hot Pepper Sauce,12,252.6
+1997,9,Beverages,C?te de Blaye,15,3952.5
+1997,9,Dairy Products,Flotemysost,12,258
+1997,9,Confections,Pavlova,3,52.35
+1997,9,Grains/Cereals,Singaporean Hokkien Fried Mee,6,84
+1997,9,Beverages,Ipoh Coffee,6,276
+1997,9,Grains/Cereals,Tunnbr?d,5,45
+1997,9,Produce,Tofu,30,697.5
+1997,9,Meat/Poultry,Perth Pasties,10,328
+1997,9,Seafood,Escargots de Bourgogne,30,397.5
+1997,9,Seafood,Ikura,2,62
+1997,9,Confections,Teatime Chocolate Biscuits,7,64.4
+1997,9,Condiments,Gula Malacca,21,408.45
+1997,9,Confections,Gumb?r Gummib?rchen,30,936.9
+1997,9,Dairy Products,Geitost,8,20
+1997,9,Dairy Products,Queso Manchego La Pastora,100,3800
+1997,9,Dairy Products,Geitost,30,75
+1997,9,Seafood,Jack's New England Clam Chowder,120,1158
+1997,9,Meat/Poultry,Tourti¨¨re,30,223.5
+1997,9,Dairy Products,Raclette Courdavault,12,660
+1997,9,Confections,Pavlova,50,872.5
+1997,9,Dairy Products,Gorgonzola Telino,20,250
+1997,9,Grains/Cereals,Singaporean Hokkien Fried Mee,40,560
+1997,9,Confections,Teatime Chocolate Biscuits,30,276
+1997,9,Confections,Sir Rodney's Scones,12,120
+1997,9,Grains/Cereals,Wimmers gute Semmelkn?del,28,931
+1997,9,Dairy Products,Geitost,30,75
+1997,9,Condiments,Louisiana Hot Spiced Okra,4,68
+1997,9,Beverages,Rh?nbr?u Klosterbier,30,232.5
+1997,9,Grains/Cereals,Filo Mix,9,63
+1997,9,Seafood,Boston Crab Meat,20,368
+1997,9,Confections,Zaanse koeken,40,380
+1997,9,Dairy Products,Camembert Pierrot,30,1020
+1997,9,Seafood,Ikura,20,620
+1997,9,Seafood,Jack's New England Clam Chowder,4,38.6
+1997,9,Confections,Zaanse koeken,15,142.5
+1997,9,Meat/Poultry,Alice Mutton,30,1170
+1997,9,Confections,Gumb?r Gummib?rchen,15,468.45
+1997,9,Meat/Poultry,Mishi Kobe Niku,50,4850
+1997,9,Meat/Poultry,Th¨¹ringer Rostbratwurst,10,1237.9
+1997,9,Seafood,Inlagd Sill,6,114
+1997,10,Seafood,Ikura,18,558
+1997,10,Produce,R?ssle Sauerkraut,60,2736
+1997,10,Beverages,Sasquatch Ale,14,196
+1997,10,Beverages,Chai,35,630
+1997,10,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1997,10,Condiments,Original Frankfurter gr¨¹ne So?e,30,390
+1997,10,Beverages,Chai,30,540
+1997,10,Meat/Poultry,Th¨¹ringer Rostbratwurst,40,4951.6
+1997,10,Beverages,Ipoh Coffee,40,1840
+1997,10,Condiments,Gula Malacca,24,466.8
+1997,10,Confections,Tarte au sucre,48,2366.4
+1997,10,Condiments,Vegie-spread,20,878
+1997,10,Meat/Poultry,Mishi Kobe Niku,6,582
+1997,10,Meat/Poultry,Tourti¨¨re,60,447
+1997,10,Dairy Products,Gudbrandsdalsost,30,1080
+1997,10,Seafood,R?d Kaviar,15,225
+1997,10,Produce,Uncle Bob's Organic Dried Pears,90,2700
+1997,10,Dairy Products,Raclette Courdavault,25,1375
+1997,10,Beverages,Outback Lager,50,750
+1997,10,Condiments,Northwoods Cranberry Sauce,10,400
+1997,10,Dairy Products,Queso Manchego La Pastora,4,152
+1997,10,Beverages,Guaran¨¢ Fant¨¢stica,20,90
+1997,10,Meat/Poultry,Alice Mutton,20,780
+1997,10,Seafood,Spegesild,18,216
+1997,10,Confections,Teatime Chocolate Biscuits,7,64.4
+1997,10,Beverages,Steeleye Stout,9,162
+1997,10,Seafood,Escargots de Bourgogne,30,397.5
+1997,10,Beverages,Outback Lager,30,450
+1997,10,Dairy Products,Queso Cabrales,15,315
+1997,10,Meat/Poultry,Alice Mutton,8,312
+1997,10,Meat/Poultry,Th¨¹ringer Rostbratwurst,12,1485.48
+1997,10,Condiments,Louisiana Fiery Hot Pepper Sauce,65,1368.25
+1997,10,Beverages,Outback Lager,8,120
+1997,10,Confections,Zaanse koeken,12,114
+1997,10,Beverages,Chai,5,90
+1997,10,Beverages,Sasquatch Ale,12,168
+1997,10,Confections,Scottish Longbreads,40,500
+1997,10,Dairy Products,Flotemysost,60,1290
+1997,10,Dairy Products,Raclette Courdavault,42,2310
+1997,10,Dairy Products,Flotemysost,20,430
+1997,10,Beverages,Lakkalik??ri,35,630
+1997,10,Condiments,Aniseed Syrup,6,60
+1997,10,Beverages,Lakkalik??ri,15,270
+1997,10,Beverages,Chang,5,95
+1997,10,Dairy Products,Raclette Courdavault,35,1925
+1997,10,Seafood,R?d Kaviar,35,525
+1997,10,Condiments,Chef Anton's Cajun Seasoning,6,132
+1997,10,Beverages,Guaran¨¢ Fant¨¢stica,35,157.5
+1997,10,Confections,Chocolade,24,306
+1997,10,Dairy Products,Gorgonzola Telino,20,250
+1997,10,Dairy Products,Mascarpone Fabioli,4,128
+1997,10,Confections,Pavlova,20,349
+1997,10,Beverages,Ipoh Coffee,24,1104
+1997,10,Dairy Products,Raclette Courdavault,8,440
+1997,10,Meat/Poultry,P?t¨¦ chinois,21,504
+1997,10,Grains/Cereals,Ravioli Angelo,40,780
+1997,10,Beverages,Outback Lager,28,420
+1997,10,Condiments,Chef Anton's Gumbo Mix,4,85.4
+1997,10,Seafood,Inlagd Sill,5,95
+1997,10,Condiments,Northwoods Cranberry Sauce,40,1600
+1997,10,Produce,Manjimup Dried Apples,28,1484
+1997,10,Dairy Products,Camembert Pierrot,10,340
+1997,10,Confections,Teatime Chocolate Biscuits,5,46
+1997,10,Confections,Zaanse koeken,5,47.5
+1997,10,Confections,Teatime Chocolate Biscuits,12,110.4
+1997,10,Seafood,Jack's New England Clam Chowder,42,405.3
+1997,10,Meat/Poultry,Perth Pasties,120,3936
+1997,10,Meat/Poultry,Perth Pasties,3,98.4
+1997,10,Grains/Cereals,Gnocchi di nonna Alice,30,1140
+1997,10,Seafood,Ikura,18,558
+1997,10,Confections,Gumb?r Gummib?rchen,30,936.9
+1997,10,Seafood,Rogede sild,110,1045
+1997,10,Seafood,Spegesild,24,288
+1997,10,Beverages,Chang,30,570
+1997,10,Meat/Poultry,Alice Mutton,27,1053
+1997,10,Confections,Zaanse koeken,50,475
+1997,10,Grains/Cereals,Gnocchi di nonna Alice,18,684
+1997,10,Seafood,Escargots de Bourgogne,12,159
+1997,10,Seafood,Ikura,21,651
+1997,10,Dairy Products,Flotemysost,30,645
+1997,10,Confections,Sir Rodney's Scones,5,50
+1997,10,Produce,Manjimup Dried Apples,7,371
+1997,10,Condiments,Sirop d'¨¦rable,10,285
+1997,10,Confections,Sir Rodney's Scones,32,320
+1997,10,Meat/Poultry,Tourti¨¨re,15,111.75
+1997,10,Dairy Products,Gudbrandsdalsost,25,900
+1997,10,Dairy Products,Queso Manchego La Pastora,36,1368
+1997,10,Confections,Pavlova,20,349
+1997,10,Seafood,Inlagd Sill,40,760
+1997,10,Confections,Tarte au sucre,20,986
+1997,10,Seafood,Carnarvon Tigers,12,750
+1997,10,Seafood,Nord-Ost Matjeshering,3,77.67
+1997,10,Meat/Poultry,Tourti¨¨re,40,298
+1997,10,Beverages,Steeleye Stout,21,378
+1997,10,Dairy Products,Flotemysost,8,172
+1997,10,Condiments,Gula Malacca,50,972.5
+1997,10,Beverages,Chang,3,57
+1997,10,Dairy Products,Gorgonzola Telino,50,625
+1997,10,Confections,Scottish Longbreads,45,562.5
+1997,10,Beverages,Rh?nbr?u Klosterbier,42,325.5
+1997,10,Confections,Gumb?r Gummib?rchen,15,468.45
+1997,10,Seafood,Ikura,16,496
+1997,10,Condiments,Sirop d'¨¦rable,5,142.5
+1997,10,Seafood,Jack's New England Clam Chowder,12,115.8
+1997,10,Grains/Cereals,Filo Mix,4,28
+1997,10,Meat/Poultry,P?t¨¦ chinois,6,144
+1997,11,Condiments,Chef Anton's Cajun Seasoning,25,550
+1997,11,Dairy Products,Queso Cabrales,5,105
+1997,11,Meat/Poultry,Alice Mutton,20,780
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,10,380
+1997,11,Dairy Products,Raclette Courdavault,10,550
+1997,11,Seafood,Nord-Ost Matjeshering,15,388.35
+1997,11,Seafood,Boston Crab Meat,6,110.4
+1997,11,Meat/Poultry,P?t¨¦ chinois,12,288
+1997,11,Dairy Products,Camembert Pierrot,15,510
+1997,11,Beverages,Chai,50,900
+1997,11,Confections,Sir Rodney's Scones,30,300
+1997,11,Confections,Valkoinen suklaa,40,650
+1997,11,Confections,Pavlova,15,261.75
+1997,11,Dairy Products,Gorgonzola Telino,3,37.5
+1997,11,Condiments,Louisiana Fiery Hot Pepper Sauce,10,210.5
+1997,11,Confections,Sir Rodney's Scones,40,400
+1997,11,Produce,Manjimup Dried Apples,30,1590
+1997,11,Beverages,Lakkalik??ri,20,360
+1997,11,Produce,Tofu,16,372
+1997,11,Produce,R?ssle Sauerkraut,20,912
+1997,11,Grains/Cereals,Filo Mix,25,175
+1997,11,Condiments,Grandma's Boysenberry Spread,30,750
+1997,11,Seafood,Nord-Ost Matjeshering,15,388.35
+1997,11,Beverages,Lakkalik??ri,20,360
+1997,11,Condiments,Sirop d'¨¦rable,20,570
+1997,11,Condiments,Original Frankfurter gr¨¹ne So?e,2,26
+1997,11,Condiments,Louisiana Fiery Hot Pepper Sauce,40,842
+1997,11,Beverages,Rh?nbr?u Klosterbier,20,155
+1997,11,Seafood,Konbu,4,24
+1997,11,Seafood,Jack's New England Clam Chowder,12,115.8
+1997,11,Confections,Pavlova,3,52.35
+1997,11,Seafood,Inlagd Sill,6,114
+1997,11,Grains/Cereals,Filo Mix,18,126
+1997,11,Produce,R?ssle Sauerkraut,5,228
+1997,11,Beverages,Steeleye Stout,35,630
+1997,11,Seafood,Rogede sild,40,380
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,14,532
+1997,11,Beverages,Chang,15,285
+1997,11,Condiments,Aniseed Syrup,20,200
+1997,11,Dairy Products,Camembert Pierrot,50,1700
+1997,11,Dairy Products,Mozzarella di Giovanni,35,1218
+1997,11,Seafood,Spegesild,28,336
+1997,11,Seafood,Boston Crab Meat,50,920
+1997,11,Seafood,Carnarvon Tigers,24,1500
+1997,11,Condiments,Gula Malacca,16,311.2
+1997,11,Dairy Products,Raclette Courdavault,45,2475
+1997,11,Dairy Products,Mozzarella di Giovanni,7,243.6
+1997,11,Seafood,Konbu,6,36
+1997,11,Grains/Cereals,Singaporean Hokkien Fried Mee,28,392
+1997,11,Confections,Tarte au sucre,9,443.7
+1997,11,Dairy Products,Gudbrandsdalsost,40,1440
+1997,11,Dairy Products,Gorgonzola Telino,8,100
+1997,11,Seafood,Jack's New England Clam Chowder,35,337.75
+1997,11,Condiments,Vegie-spread,9,395.1
+1997,11,Dairy Products,Gudbrandsdalsost,30,1080
+1997,11,Grains/Cereals,Tunnbr?d,44,396
+1997,11,Seafood,Boston Crab Meat,40,736
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,28,1064
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,15,570
+1997,11,Dairy Products,Raclette Courdavault,6,330
+1997,11,Beverages,Lakkalik??ri,10,180
+1997,11,Produce,Tofu,5,116.25
+1997,11,Seafood,Rogede sild,40,380
+1997,11,Dairy Products,Raclette Courdavault,25,1375
+1997,11,Confections,Gumb?r Gummib?rchen,12,374.76
+1997,11,Seafood,Nord-Ost Matjeshering,30,776.7
+1997,11,Confections,Valkoinen suklaa,20,325
+1997,11,Seafood,R?d Kaviar,15,225
+1997,11,Beverages,Chai,8,144
+1997,11,Dairy Products,Gudbrandsdalsost,3,108
+1997,11,Seafood,Rogede sild,4,38
+1997,11,Produce,Longlife Tofu,5,50
+1997,11,Seafood,Boston Crab Meat,3,55.2
+1997,11,Confections,Zaanse koeken,30,285
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,30,1140
+1997,11,Grains/Cereals,Ravioli Angelo,14,273
+1997,11,Dairy Products,Gudbrandsdalsost,25,900
+1997,11,Seafood,Carnarvon Tigers,21,1312.5
+1997,11,Seafood,Inlagd Sill,20,380
+1997,11,Confections,Scottish Longbreads,6,75
+1997,11,Dairy Products,Gudbrandsdalsost,20,720
+1997,11,Beverages,Sasquatch Ale,30,420
+1997,11,Dairy Products,Raclette Courdavault,7,385
+1997,11,Confections,Tarte au sucre,30,1479
+1997,11,Grains/Cereals,Wimmers gute Semmelkn?del,24,798
+1997,11,Confections,Gumb?r Gummib?rchen,20,624.6
+1997,11,Grains/Cereals,Filo Mix,60,420
+1997,11,Beverages,Outback Lager,40,600
+1997,11,Dairy Products,Mascarpone Fabioli,10,320
+1997,12,Confections,NuNuCa Nu?-Nougat-Creme,12,168
+1997,12,Confections,Schoggi Schokolade,40,1756
+1997,12,Beverages,Ipoh Coffee,30,1380
+1997,12,Confections,NuNuCa Nu?-Nougat-Creme,35,490
+1997,12,Beverages,Rh?nbr?u Klosterbier,18,139.5
+1997,12,Beverages,Chartreuse verte,16,288
+1997,12,Confections,Zaanse koeken,30,285
+1997,12,Produce,Manjimup Dried Apples,28,1484
+1997,12,Grains/Cereals,Gnocchi di nonna Alice,60,2280
+1997,12,Confections,Sir Rodney's Scones,40,400
+1997,12,Grains/Cereals,Gustaf's Kn?ckebr?d,6,126
+1997,12,Beverages,Guaran¨¢ Fant¨¢stica,20,90
+1997,12,Condiments,Aniseed Syrup,20,200
+1997,12,Beverages,Chartreuse verte,130,2340
+1997,12,Condiments,Louisiana Fiery Hot Pepper Sauce,80,1684
+1997,12,Beverages,Chang,40,760
+1997,12,Produce,Uncle Bob's Organic Dried Pears,35,1050
+1997,12,Confections,Scottish Longbreads,40,500
+1997,12,Grains/Cereals,Singaporean Hokkien Fried Mee,2,28
+1997,12,Grains/Cereals,Gustaf's Kn?ckebr?d,4,84
+1997,12,Dairy Products,Gorgonzola Telino,50,625
+1997,12,Dairy Products,Camembert Pierrot,15,510
+1997,12,Dairy Products,Flotemysost,12,258
+1997,12,Seafood,Jack's New England Clam Chowder,30,289.5
+1997,12,Grains/Cereals,Filo Mix,15,105
+1997,12,Condiments,Sirop d'¨¦rable,20,570
+1997,12,Confections,Tarte au sucre,15,739.5
+1997,12,Dairy Products,Queso Cabrales,15,315
+1997,12,Dairy Products,Flotemysost,16,344
+1997,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,18,2228.22
+1997,12,Dairy Products,Raclette Courdavault,25,1375
+1997,12,Meat/Poultry,Alice Mutton,33,1287
+1997,12,Dairy Products,Gorgonzola Telino,70,875
+1997,12,Beverages,Rh?nbr?u Klosterbier,7,54.25
+1997,12,Dairy Products,Gorgonzola Telino,2,25
+1997,12,Condiments,Louisiana Hot Spiced Okra,50,850
+1997,12,Seafood,Ikura,6,186
+1997,12,Beverages,Laughing Lumberjack Lager,3,42
+1997,12,Dairy Products,Gorgonzola Telino,16,200
+1997,12,Grains/Cereals,Singaporean Hokkien Fried Mee,12,168
+1997,12,Seafood,Rogede sild,27,256.5
+1997,12,Produce,Manjimup Dried Apples,120,6360
+1997,12,Grains/Cereals,Singaporean Hokkien Fried Mee,20,280
+1997,12,Seafood,Jack's New England Clam Chowder,10,96.5
+1997,12,Confections,Pavlova,20,349
+1997,12,Confections,Tarte au sucre,20,986
+1997,12,Beverages,Outback Lager,35,525
+1997,12,Condiments,Original Frankfurter gr¨¹ne So?e,15,195
+1997,12,Meat/Poultry,Tourti¨¨re,3,22.35
+1997,12,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1997,12,Produce,Longlife Tofu,35,350
+1997,12,Dairy Products,Gorgonzola Telino,1,12.5
+1997,12,Dairy Products,Gorgonzola Telino,10,125
+1997,12,Beverages,C?te de Blaye,5,1317.5
+1997,12,Seafood,Inlagd Sill,30,570
+1997,12,Beverages,Chartreuse verte,2,36
+1997,12,Dairy Products,Mozzarella di Giovanni,30,1044
+1997,12,Seafood,Ikura,10,310
+1997,12,Beverages,Rh?nbr?u Klosterbier,10,77.5
+1997,12,Condiments,Northwoods Cranberry Sauce,30,1200
+1997,12,Seafood,Nord-Ost Matjeshering,15,388.35
+1997,12,Beverages,Rh?nbr?u Klosterbier,42,325.5
+1997,12,Beverages,Chang,15,285
+1997,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,20,2475.8
+1997,12,Confections,Teatime Chocolate Biscuits,50,460
+1997,12,Beverages,Rh?nbr?u Klosterbier,40,310
+1997,12,Seafood,Carnarvon Tigers,30,1875
+1997,12,Beverages,Steeleye Stout,15,270
+1997,12,Condiments,Vegie-spread,30,1317
+1997,12,Confections,Scottish Longbreads,18,225
+1997,12,Produce,Uncle Bob's Organic Dried Pears,3,90
+1997,12,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1997,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,14,1733.06
+1997,12,Seafood,Jack's New England Clam Chowder,20,193
+1997,12,Beverages,Chang,10,190
+1997,12,Meat/Poultry,Tourti¨¨re,3,22.35
+1997,12,Confections,Scottish Longbreads,15,187.5
+1997,12,Seafood,Jack's New England Clam Chowder,14,135.1
+1997,12,Grains/Cereals,Filo Mix,8,56
+1997,12,Produce,Tofu,15,348.75
+1997,12,Meat/Poultry,Tourti¨¨re,6,44.7
+1997,12,Confections,Pavlova,65,1134.25
+1997,12,Meat/Poultry,Alice Mutton,35,1365
+1997,12,Confections,Gumb?r Gummib?rchen,21,655.83
+1997,12,Condiments,Gula Malacca,10,194.5
+1997,12,Grains/Cereals,Wimmers gute Semmelkn?del,35,1163.75
+1997,12,Dairy Products,Gudbrandsdalsost,24,864
+1997,12,Dairy Products,Queso Cabrales,20,420
+1997,12,Confections,Tarte au sucre,2,98.6
+1997,12,Dairy Products,Mozzarella di Giovanni,10,348
+1997,12,Seafood,Konbu,20,120
+1997,12,Beverages,Guaran¨¢ Fant¨¢stica,20,90
+1997,12,Dairy Products,Raclette Courdavault,25,1375
+1997,12,Dairy Products,Queso Cabrales,50,1050
+1997,12,Produce,Manjimup Dried Apples,10,530
+1997,12,Meat/Poultry,Tourti¨¨re,7,52.15
+1997,12,Meat/Poultry,Alice Mutton,40,1560
+1997,12,Meat/Poultry,Th¨¹ringer Rostbratwurst,20,2475.8
+1997,12,Seafood,Nord-Ost Matjeshering,25,647.25
+1997,12,Produce,Manjimup Dried Apples,30,1590
+1997,12,Meat/Poultry,P?t¨¦ chinois,60,1440
+1997,12,Confections,Tarte au sucre,5,246.5
+1997,12,Confections,Teatime Chocolate Biscuits,24,220.8
+1997,12,Confections,NuNuCa Nu?-Nougat-Creme,15,210
+1997,12,Dairy Products,Raclette Courdavault,15,825
+1997,12,Seafood,Ikura,36,1116
+1997,12,Produce,R?ssle Sauerkraut,24,1094.4
+1997,12,Confections,Maxilaku,4,80
+1997,12,Beverages,Sasquatch Ale,10,140
+1997,12,Beverages,C?te de Blaye,10,2635
+1997,12,Beverages,Chang,20,380
+1997,12,Condiments,Louisiana Fiery Hot Pepper Sauce,2,42.1
+1997,12,Produce,Longlife Tofu,15,150
+1997,12,Seafood,Boston Crab Meat,1,18.4
+1998,1,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1998,1,Beverages,Lakkalik??ri,50,900
+1998,1,Grains/Cereals,Filo Mix,20,140
+1998,1,Seafood,Konbu,7,42
+1998,1,Confections,NuNuCa Nu?-Nougat-Creme,5,70
+1998,1,Beverages,Outback Lager,5,75
+1998,1,Confections,Teatime Chocolate Biscuits,15,138
+1998,1,Grains/Cereals,Tunnbr?d,18,162
+1998,1,Seafood,Boston Crab Meat,30,552
+1998,1,Dairy Products,Gorgonzola Telino,16,200
+1998,1,Dairy Products,Mozzarella di Giovanni,40,1392
+1998,1,Condiments,Original Frankfurter gr¨¹ne So?e,20,260
+1998,1,Beverages,Chang,12,228
+1998,1,Seafood,Spegesild,35,420
+1998,1,Seafood,Jack's New England Clam Chowder,20,193
+1998,1,Beverages,Ipoh Coffee,20,920
+1998,1,Confections,Chocolade,8,102
+1998,1,Condiments,Sirop d'¨¦rable,30,855
+1998,1,Dairy Products,Geitost,16,40
+1998,1,Beverages,C?te de Blaye,30,7905
+1998,1,Confections,Tarte au sucre,20,986
+1998,1,Confections,Gumb?r Gummib?rchen,40,1249.2
+1998,1,Beverages,C?te de Blaye,30,7905
+1998,1,Seafood,Boston Crab Meat,60,1104
+1998,1,Confections,Tarte au sucre,25,1232.5
+1998,1,Dairy Products,Mascarpone Fabioli,20,640
+1998,1,Seafood,Jack's New England Clam Chowder,20,193
+1998,1,Beverages,Ipoh Coffee,7,322
+1998,1,Beverages,Rh?nbr?u Klosterbier,20,155
+1998,1,Grains/Cereals,Gnocchi di nonna Alice,30,1140
+1998,1,Beverages,Steeleye Stout,20,360
+1998,1,Produce,Manjimup Dried Apples,6,318
+1998,1,Confections,Tarte au sucre,3,147.9
+1998,1,Beverages,Outback Lager,6,90
+1998,1,Dairy Products,Queso Cabrales,20,420
+1998,1,Grains/Cereals,Ravioli Angelo,15,292.5
+1998,1,Dairy Products,Raclette Courdavault,40,2200
+1998,1,Condiments,Original Frankfurter gr¨¹ne So?e,15,195
+1998,1,Seafood,Jack's New England Clam Chowder,12,115.8
+1998,1,Beverages,Outback Lager,9,135
+1998,1,Confections,Gumb?r Gummib?rchen,12,374.76
+1998,1,Meat/Poultry,Perth Pasties,20,656
+1998,1,Dairy Products,Gorgonzola Telino,35,437.5
+1998,1,Grains/Cereals,Ravioli Angelo,15,292.5
+1998,1,Seafood,Ikura,15,465
+1998,1,Beverages,Chartreuse verte,21,378
+1998,1,Confections,Sir Rodney's Marmalade,5,405
+1998,1,Beverages,C?te de Blaye,2,527
+1998,1,Beverages,Chang,10,190
+1998,1,Condiments,Northwoods Cranberry Sauce,20,800
+1998,1,Seafood,Konbu,10,60
+1998,1,Dairy Products,Camembert Pierrot,21,714
+1998,1,Condiments,Grandma's Boysenberry Spread,6,150
+1998,1,Beverages,Chartreuse verte,28,504
+1998,1,Dairy Products,Camembert Pierrot,30,1020
+1998,1,Confections,Scottish Longbreads,24,300
+1998,1,Confections,Teatime Chocolate Biscuits,2,18.4
+1998,1,Beverages,Steeleye Stout,8,144
+1998,1,Beverages,C?te de Blaye,8,2108
+1998,1,Beverages,Ipoh Coffee,9,414
+1998,1,Seafood,Konbu,3,18
+1998,1,Confections,NuNuCa Nu?-Nougat-Creme,10,140
+1998,1,Condiments,Gula Malacca,16,311.2
+1998,1,Grains/Cereals,Wimmers gute Semmelkn?del,3,99.75
+1998,1,Produce,Uncle Bob's Organic Dried Pears,20,600
+1998,1,Dairy Products,Gorgonzola Telino,9,112.5
+1998,1,Meat/Poultry,Perth Pasties,9,295.2
+1998,1,Meat/Poultry,Th¨¹ringer Rostbratwurst,8,990.32
+1998,1,Seafood,Nord-Ost Matjeshering,20,517.8
+1998,1,Dairy Products,Raclette Courdavault,15,825
+1998,1,Condiments,Original Frankfurter gr¨¹ne So?e,2,26
+1998,1,Grains/Cereals,Gustaf's Kn?ckebr?d,52,1092
+1998,1,Beverages,Steeleye Stout,6,108
+1998,1,Grains/Cereals,Ravioli Angelo,24,468
+1998,1,Dairy Products,Camembert Pierrot,60,2040
+1998,1,Grains/Cereals,Wimmers gute Semmelkn?del,30,997.5
+1998,1,Seafood,Konbu,6,36
+1998,1,Seafood,Boston Crab Meat,25,460
+1998,1,Confections,Zaanse koeken,40,380
+1998,1,Beverages,Lakkalik??ri,21,378
+1998,1,Beverages,Chai,4,72
+1998,1,Seafood,Carnarvon Tigers,25,1562.5
+1998,1,Seafood,Inlagd Sill,50,950
+1998,1,Seafood,Escargots de Bourgogne,30,397.5
+1998,1,Dairy Products,Mozzarella di Giovanni,15,522
+1998,1,Confections,NuNuCa Nu?-Nougat-Creme,6,84
+1998,1,Beverages,Chartreuse verte,10,180
+1998,1,Seafood,Ikura,16,496
+1998,1,Grains/Cereals,Gnocchi di nonna Alice,30,1140
+1998,1,Dairy Products,Raclette Courdavault,50,2750
+1998,1,Condiments,Original Frankfurter gr¨¹ne So?e,15,195
+1998,1,Dairy Products,Queso Cabrales,15,315
+1998,1,Beverages,Ipoh Coffee,5,230
+1998,1,Confections,Scottish Longbreads,20,250
+1998,1,Beverages,Outback Lager,12,180
+1998,1,Produce,Manjimup Dried Apples,4,212
+1998,1,Grains/Cereals,Gustaf's Kn?ckebr?d,35,735
+1998,1,Grains/Cereals,Tunnbr?d,70,630
+1998,1,Beverages,Steeleye Stout,25,450
+1998,1,Grains/Cereals,Singaporean Hokkien Fried Mee,42,588
+1998,1,Seafood,Escargots de Bourgogne,60,795
+1998,1,Grains/Cereals,Wimmers gute Semmelkn?del,48,1596
+1998,1,Condiments,Chef Anton's Cajun Seasoning,21,462
+1998,1,Beverages,Outback Lager,30,450
+1998,1,Produce,Longlife Tofu,20,200
+1998,1,Beverages,Chai,80,1440
+1998,1,Confections,Teatime Chocolate Biscuits,12,110.4
+1998,1,Seafood,Gravad lax,60,1560
+1998,1,Seafood,Rogede sild,36,342
+1998,1,Dairy Products,Camembert Pierrot,45,1530
+1998,1,Dairy Products,Flotemysost,55,1182.5
+1998,1,Condiments,Chef Anton's Gumbo Mix,30,640.5
+1998,1,Meat/Poultry,Mishi Kobe Niku,3,291
+1998,1,Condiments,Aniseed Syrup,49,490
+1998,1,Confections,Gumb?r Gummib?rchen,18,562.14
+1998,1,Confections,NuNuCa Nu?-Nougat-Creme,20,280
+1998,1,Dairy Products,Geitost,4,10
+1998,1,Beverages,Outback Lager,30,450
+1998,1,Beverages,Chang,5,95
+1998,1,Confections,NuNuCa Nu?-Nougat-Creme,10,140
+1998,1,Grains/Cereals,Ravioli Angelo,10,195
+1998,1,Dairy Products,Raclette Courdavault,42,2310
+1998,1,Beverages,Chang,15,285
+1998,1,Meat/Poultry,Alice Mutton,6,234
+1998,1,Confections,Tarte au sucre,50,2465
+1998,1,Seafood,Carnarvon Tigers,10,625
+1998,1,Seafood,Ikura,100,3100
+1998,1,Seafood,Konbu,65,390
+1998,1,Confections,Pavlova,50,872.5
+1998,1,Dairy Products,Gorgonzola Telino,14,175
+1998,1,Grains/Cereals,Gnocchi di nonna Alice,24,912
+1998,1,Condiments,Louisiana Fiery Hot Pepper Sauce,15,315.75
+1998,1,Beverages,Chang,20,380
+1998,1,Grains/Cereals,Singaporean Hokkien Fried Mee,20,280
+1998,1,Condiments,Aniseed Syrup,30,300
+1998,1,Confections,Gumb?r Gummib?rchen,35,1093.05
+1998,1,Meat/Poultry,Th¨¹ringer Rostbratwurst,10,1237.9
+1998,1,Produce,Uncle Bob's Organic Dried Pears,5,150
+1998,1,Confections,Schoggi Schokolade,10,439
+1998,1,Beverages,Outback Lager,4,60
+1998,1,Beverages,Guaran¨¢ Fant¨¢stica,40,180
+1998,1,Meat/Poultry,Tourti¨¨re,35,260.75
+1998,1,Grains/Cereals,Wimmers gute Semmelkn?del,30,997.5
+1998,1,Produce,Manjimup Dried Apples,3,159
+1998,1,Beverages,Lakkalik??ri,20,360
+1998,1,Meat/Poultry,Alice Mutton,42,1638
+1998,1,Seafood,Carnarvon Tigers,20,1250
+1998,1,Confections,Sir Rodney's Scones,40,400
+1998,1,Dairy Products,Geitost,35,87.5
+1998,1,Confections,Tarte au sucre,3,147.9
+1998,1,Dairy Products,Queso Cabrales,25,525
+1998,1,Grains/Cereals,Filo Mix,8,56
+1998,2,Beverages,Chai,20,360
+1998,2,Seafood,Escargots de Bourgogne,12,159
+1998,2,Beverages,Steeleye Stout,4,72
+1998,2,Beverages,Laughing Lumberjack Lager,15,210
+1998,2,Beverages,C?te de Blaye,60,15810
+1998,2,Beverages,Chartreuse verte,80,1440
+1998,2,Beverages,Chang,21,399
+1998,2,Beverages,Guaran¨¢ Fant¨¢stica,6,27
+1998,2,Seafood,Nord-Ost Matjeshering,40,1035.6
+1998,2,Meat/Poultry,Perth Pasties,3,98.4
+1998,2,Confections,Gumb?r Gummib?rchen,20,624.6
+1998,2,Beverages,Steeleye Stout,30,540
+1998,2,Confections,Maxilaku,42,840
+1998,2,Beverages,Chai,40,720
+1998,2,Dairy Products,Queso Cabrales,10,210
+1998,2,Grains/Cereals,Tunnbr?d,50,450
+1998,2,Confections,Scottish Longbreads,20,250
+1998,2,Beverages,Steeleye Stout,3,54
+1998,2,Produce,Manjimup Dried Apples,2,106
+1998,2,Condiments,Grandma's Boysenberry Spread,50,1250
+1998,2,Confections,Pavlova,12,209.4
+1998,2,Meat/Poultry,Alice Mutton,16,624
+1998,2,Meat/Poultry,P?t¨¦ chinois,10,240
+1998,2,Confections,Tarte au sucre,20,986
+1998,2,Grains/Cereals,Wimmers gute Semmelkn?del,15,498.75
+1998,2,Condiments,Louisiana Fiery Hot Pepper Sauce,21,442.05
+1998,2,Confections,Sir Rodney's Scones,20,200
+1998,2,Produce,R?ssle Sauerkraut,3,136.8
+1998,2,Seafood,Ikura,10,310
+1998,2,Confections,Teatime Chocolate Biscuits,25,230
+1998,2,Confections,Zaanse koeken,21,199.5
+1998,2,Confections,Maxilaku,15,300
+1998,2,Seafood,Spegesild,21,252
+1998,2,Grains/Cereals,Wimmers gute Semmelkn?del,20,665
+1998,2,Confections,Pavlova,30,523.5
+1998,2,Seafood,Carnarvon Tigers,25,1562.5
+1998,2,Confections,Sir Rodney's Marmalade,20,1620
+1998,2,Seafood,Boston Crab Meat,12,220.8
+1998,2,Condiments,Louisiana Fiery Hot Pepper Sauce,10,210.5
+1998,2,Beverages,Lakkalik??ri,10,180
+1998,2,Grains/Cereals,Tunnbr?d,30,270
+1998,2,Condiments,Sirop d'¨¦rable,30,855
+1998,2,Beverages,Outback Lager,50,750
+1998,2,Seafood,R?d Kaviar,10,150
+1998,2,Grains/Cereals,Singaporean Hokkien Fried Mee,25,350
+1998,2,Confections,Maxilaku,20,400
+1998,2,Meat/Poultry,Tourti¨¨re,32,238.4
+1998,2,Beverages,Guaran¨¢ Fant¨¢stica,8,36
+1998,2,Confections,Sir Rodney's Scones,40,400
+1998,2,Grains/Cereals,Gnocchi di nonna Alice,21,798
+1998,2,Condiments,Louisiana Fiery Hot Pepper Sauce,12,252.6
+1998,2,Beverages,Chang,20,380
+1998,2,Beverages,Guaran¨¢ Fant¨¢stica,12,54
+1998,2,Beverages,Outback Lager,30,450
+1998,2,Condiments,Original Frankfurter gr¨¹ne So?e,25,325
+1998,2,Seafood,Ikura,70,2170
+1998,2,Dairy Products,Gorgonzola Telino,35,437.5
+1998,2,Condiments,Original Frankfurter gr¨¹ne So?e,40,520
+1998,2,Confections,NuNuCa Nu?-Nougat-Creme,5,70
+1998,2,Beverages,Chang,20,380
+1998,2,Confections,Scottish Longbreads,18,225
+1998,2,Dairy Products,Queso Cabrales,40,840
+1998,2,Beverages,C?te de Blaye,40,10540
+1998,2,Meat/Poultry,Alice Mutton,15,585
+1998,2,Beverages,Sasquatch Ale,10,140
+1998,2,Seafood,Jack's New England Clam Chowder,14,135.1
+1998,2,Seafood,Nord-Ost Matjeshering,15,388.35
+1998,2,Dairy Products,Raclette Courdavault,40,2200
+1998,2,Condiments,Northwoods Cranberry Sauce,30,1200
+1998,2,Beverages,Guaran¨¢ Fant¨¢stica,10,45
+1998,2,Meat/Poultry,Th¨¹ringer Rostbratwurst,24,2970.96
+1998,2,Seafood,Nord-Ost Matjeshering,35,906.15
+1998,2,Seafood,Inlagd Sill,20,380
+1998,2,Seafood,Konbu,28,168
+1998,2,Dairy Products,Gudbrandsdalsost,50,1800
+1998,2,Beverages,Rh?nbr?u Klosterbier,120,930
+1998,2,Beverages,Guaran¨¢ Fant¨¢stica,110,495
+1998,2,Beverages,Chartreuse verte,45,810
+1998,2,Seafood,Boston Crab Meat,91,1674.4
+1998,2,Dairy Products,Camembert Pierrot,100,3400
+1998,2,Seafood,Rogede sild,15,142.5
+1998,2,Grains/Cereals,Gnocchi di nonna Alice,16,608
+1998,2,Meat/Poultry,Th¨¹ringer Rostbratwurst,80,9903.2
+1998,2,Seafood,Nord-Ost Matjeshering,36,932.04
+1998,2,Seafood,Konbu,5,30
+1998,2,Beverages,Chartreuse verte,8,144
+1998,2,Beverages,Outback Lager,3,45
+1998,2,Seafood,Jack's New England Clam Chowder,30,289.5
+1998,2,Dairy Products,Flotemysost,30,645
+1998,2,Meat/Poultry,P?t¨¦ chinois,30,720
+1998,2,Confections,Tarte au sucre,6,295.8
+1998,2,Seafood,Konbu,40,240
+1998,2,Condiments,Louisiana Fiery Hot Pepper Sauce,21,442.05
+1998,2,Confections,Scottish Longbreads,20,250
+1998,2,Seafood,Escargots de Bourgogne,15,198.75
+1998,2,Confections,Tarte au sucre,35,1725.5
+1998,2,Beverages,Chai,20,360
+1998,2,Condiments,Sirop d'¨¦rable,15,427.5
+1998,2,Beverages,Rh?nbr?u Klosterbier,14,108.5
+1998,2,Produce,Uncle Bob's Organic Dried Pears,20,600
+1998,2,Grains/Cereals,Filo Mix,14,98
+1998,2,Produce,Uncle Bob's Organic Dried Pears,12,360
+1998,2,Confections,Pavlova,15,261.75
+1998,2,Seafood,Jack's New England Clam Chowder,5,48.25
+1998,2,Confections,Teatime Chocolate Biscuits,12,110.4
+1998,2,Confections,Maxilaku,10,200
+1998,2,Condiments,Sirop d'¨¦rable,5,142.5
+1998,2,Beverages,Chai,10,180
+1998,2,Meat/Poultry,Alice Mutton,12,468
+1998,2,Beverages,Laughing Lumberjack Lager,15,210
+1998,2,Dairy Products,Queso Cabrales,40,840
+1998,2,Meat/Poultry,Th¨¹ringer Rostbratwurst,60,7427.4
+1998,2,Condiments,Chef Anton's Cajun Seasoning,30,660
+1998,2,Dairy Products,Geitost,40,100
+1998,2,Seafood,Escargots de Bourgogne,15,198.75
+1998,2,Dairy Products,Flotemysost,25,537.5
+1998,2,Meat/Poultry,Alice Mutton,10,390
+1998,2,Dairy Products,Geitost,30,75
+1998,2,Meat/Poultry,Tourti¨¨re,10,74.5
+1998,2,Confections,Pavlova,6,104.7
+1998,2,Dairy Products,Mascarpone Fabioli,6,192
+1998,2,Grains/Cereals,Ravioli Angelo,20,390
+1998,3,Seafood,Nord-Ost Matjeshering,1,25.89
+1998,3,Dairy Products,Camembert Pierrot,10,340
+1998,3,Beverages,Chai,60,1080
+1998,3,Dairy Products,Camembert Pierrot,25,850
+1998,3,Confections,Pavlova,24,418.8
+1998,3,Confections,NuNuCa Nu?-Nougat-Creme,24,336
+1998,3,Seafood,Boston Crab Meat,20,368
+1998,3,Confections,Valkoinen suklaa,24,390
+1998,3,Beverages,Steeleye Stout,10,180
+1998,3,Condiments,Vegie-spread,40,1756
+1998,3,Meat/Poultry,Alice Mutton,15,585
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,35,157.5
+1998,3,Grains/Cereals,Singaporean Hokkien Fried Mee,10,140
+1998,3,Beverages,Ipoh Coffee,10,460
+1998,3,Beverages,Laughing Lumberjack Lager,24,336
+1998,3,Seafood,Ikura,20,620
+1998,3,Produce,R?ssle Sauerkraut,30,1368
+1998,3,Beverages,Rh?nbr?u Klosterbier,6,46.5
+1998,3,Seafood,Inlagd Sill,25,475
+1998,3,Grains/Cereals,Filo Mix,12,84
+1998,3,Dairy Products,Queso Cabrales,2,42
+1998,3,Seafood,Konbu,10,60
+1998,3,Confections,Teatime Chocolate Biscuits,7,64.4
+1998,3,Dairy Products,Mozzarella di Giovanni,10,348
+1998,3,Confections,Sir Rodney's Marmalade,5,405
+1998,3,Grains/Cereals,Filo Mix,5,35
+1998,3,Beverages,Lakkalik??ri,20,360
+1998,3,Confections,Zaanse koeken,5,47.5
+1998,3,Beverages,Lakkalik??ri,5,90
+1998,3,Confections,Sir Rodney's Scones,60,600
+1998,3,Beverages,Rh?nbr?u Klosterbier,49,379.75
+1998,3,Condiments,Original Frankfurter gr¨¹ne So?e,15,195
+1998,3,Confections,Sir Rodney's Scones,36,360
+1998,3,Confections,Schoggi Schokolade,25,1097.5
+1998,3,Meat/Poultry,P?t¨¦ chinois,25,600
+1998,3,Seafood,Escargots de Bourgogne,30,397.5
+1998,3,Seafood,Konbu,42,252
+1998,3,Grains/Cereals,Ravioli Angelo,30,585
+1998,3,Confections,Pavlova,30,523.5
+1998,3,Confections,Tarte au sucre,14,690.2
+1998,3,Dairy Products,Mozzarella di Giovanni,16,556.8
+1998,3,Beverages,Rh?nbr?u Klosterbier,20,155
+1998,3,Meat/Poultry,Perth Pasties,2,65.6
+1998,3,Condiments,Sirop d'¨¦rable,30,855
+1998,3,Condiments,Grandma's Boysenberry Spread,20,500
+1998,3,Beverages,Chai,21,378
+1998,3,Seafood,Carnarvon Tigers,4,250
+1998,3,Grains/Cereals,Tunnbr?d,8,72
+1998,3,Seafood,Inlagd Sill,30,570
+1998,3,Produce,R?ssle Sauerkraut,8,364.8
+1998,3,Beverages,Sasquatch Ale,20,280
+1998,3,Seafood,Konbu,20,120
+1998,3,Beverages,Ipoh Coffee,24,1104
+1998,3,Dairy Products,Camembert Pierrot,49,1666
+1998,3,Dairy Products,Flotemysost,35,752.5
+1998,3,Beverages,Chang,10,190
+1998,3,Beverages,Laughing Lumberjack Lager,40,560
+1998,3,Produce,Uncle Bob's Organic Dried Pears,8,240
+1998,3,Seafood,Konbu,20,120
+1998,3,Dairy Products,Gorgonzola Telino,44,550
+1998,3,Confections,Tarte au sucre,30,1479
+1998,3,Confections,Scottish Longbreads,80,1000
+1998,3,Dairy Products,Mozzarella di Giovanni,50,1740
+1998,3,Confections,Maxilaku,28,560
+1998,3,Seafood,Konbu,15,90
+1998,3,Grains/Cereals,Gustaf's Kn?ckebr?d,21,441
+1998,3,Seafood,Spegesild,15,180
+1998,3,Dairy Products,Queso Cabrales,5,105
+1998,3,Condiments,Gula Malacca,18,350.1
+1998,3,Grains/Cereals,Gnocchi di nonna Alice,18,684
+1998,3,Seafood,Konbu,20,120
+1998,3,Dairy Products,Gorgonzola Telino,10,125
+1998,3,Seafood,Ikura,25,775
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,25,112.5
+1998,3,Condiments,Original Frankfurter gr¨¹ne So?e,40,520
+1998,3,Dairy Products,Raclette Courdavault,4,220
+1998,3,Confections,Valkoinen suklaa,9,146.25
+1998,3,Produce,Manjimup Dried Apples,40,2120
+1998,3,Meat/Poultry,P?t¨¦ chinois,4,96
+1998,3,Condiments,Grandma's Boysenberry Spread,12,300
+1998,3,Seafood,Ikura,30,930
+1998,3,Meat/Poultry,Alice Mutton,6,234
+1998,3,Confections,Tarte au sucre,60,2958
+1998,3,Condiments,Chef Anton's Cajun Seasoning,5,110
+1998,3,Dairy Products,Geitost,15,37.5
+1998,3,Seafood,Jack's New England Clam Chowder,6,57.9
+1998,3,Beverages,Rh?nbr?u Klosterbier,50,387.5
+1998,3,Condiments,Grandma's Boysenberry Spread,16,400
+1998,3,Produce,R?ssle Sauerkraut,2,91.2
+1998,3,Confections,Sir Rodney's Marmalade,50,4050
+1998,3,Dairy Products,Gorgonzola Telino,50,625
+1998,3,Confections,Pavlova,28,488.6
+1998,3,Dairy Products,Gorgonzola Telino,25,312.5
+1998,3,Seafood,Rogede sild,30,285
+1998,3,Dairy Products,Camembert Pierrot,24,816
+1998,3,Beverages,Rh?nbr?u Klosterbier,12,93
+1998,3,Confections,Sir Rodney's Scones,12,120
+1998,3,Confections,Zaanse koeken,14,133
+1998,3,Produce,Manjimup Dried Apples,8,424
+1998,3,Seafood,Nord-Ost Matjeshering,30,776.7
+1998,3,Beverages,Steeleye Stout,40,720
+1998,3,Grains/Cereals,Wimmers gute Semmelkn?del,8,266
+1998,3,Condiments,Chef Anton's Gumbo Mix,20,427
+1998,3,Produce,Uncle Bob's Organic Dried Pears,6,180
+1998,3,Dairy Products,Mozzarella di Giovanni,5,174
+1998,3,Beverages,Rh?nbr?u Klosterbier,20,155
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,10,45
+1998,3,Seafood,Jack's New England Clam Chowder,24,231.6
+1998,3,Grains/Cereals,Filo Mix,6,42
+1998,3,Beverages,Lakkalik??ri,60,1080
+1998,3,Produce,Uncle Bob's Organic Dried Pears,45,1350
+1998,3,Seafood,Konbu,77,462
+1998,3,Meat/Poultry,Perth Pasties,20,656
+1998,3,Dairy Products,Gudbrandsdalsost,9,324
+1998,3,Beverages,Lakkalik??ri,44,792
+1998,3,Dairy Products,Camembert Pierrot,2,68
+1998,3,Seafood,Carnarvon Tigers,6,375
+1998,3,Beverages,C?te de Blaye,5,1317.5
+1998,3,Dairy Products,Gudbrandsdalsost,10,360
+1998,3,Produce,Manjimup Dried Apples,16,848
+1998,3,Seafood,Gravad lax,8,208
+1998,3,Grains/Cereals,Gnocchi di nonna Alice,12,456
+1998,3,Confections,Tarte au sucre,12,591.6
+1998,3,Confections,Teatime Chocolate Biscuits,12,110.4
+1998,3,Confections,Maxilaku,40,800
+1998,3,Dairy Products,Queso Manchego La Pastora,30,1140
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,30,135
+1998,3,Grains/Cereals,Wimmers gute Semmelkn?del,4,133
+1998,3,Seafood,Spegesild,9,108
+1998,3,Grains/Cereals,Filo Mix,40,280
+1998,3,Meat/Poultry,Th¨¹ringer Rostbratwurst,14,1733.06
+1998,3,Meat/Poultry,Alice Mutton,6,234
+1998,3,Dairy Products,Geitost,7,17.5
+1998,3,Confections,Gumb?r Gummib?rchen,5,156.15
+1998,3,Seafood,Jack's New England Clam Chowder,6,57.9
+1998,3,Beverages,Rh?nbr?u Klosterbier,10,77.5
+1998,3,Condiments,Vegie-spread,10,439
+1998,3,Condiments,Northwoods Cranberry Sauce,16,640
+1998,3,Beverages,Rh?nbr?u Klosterbier,10,77.5
+1998,3,Produce,R?ssle Sauerkraut,20,912
+1998,3,Beverages,Chartreuse verte,30,540
+1998,3,Confections,Zaanse koeken,30,285
+1998,3,Produce,Manjimup Dried Apples,10,530
+1998,3,Condiments,Vegie-spread,20,878
+1998,3,Condiments,Northwoods Cranberry Sauce,20,800
+1998,3,Confections,Sir Rodney's Scones,40,400
+1998,3,Seafood,Boston Crab Meat,10,184
+1998,3,Condiments,Gula Malacca,6,116.7
+1998,3,Produce,Uncle Bob's Organic Dried Pears,18,540
+1998,3,Dairy Products,Queso Manchego La Pastora,20,760
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,80,360
+1998,3,Confections,Schoggi Schokolade,30,1317
+1998,3,Dairy Products,Gorgonzola Telino,24,300
+1998,3,Condiments,Vegie-spread,35,1536.5
+1998,3,Beverages,Rh?nbr?u Klosterbier,40,310
+1998,3,Beverages,C?te de Blaye,60,15810
+1998,3,Produce,Uncle Bob's Organic Dried Pears,20,600
+1998,3,Beverages,Ipoh Coffee,9,414
+1998,3,Seafood,Konbu,84,504
+1998,3,Grains/Cereals,Ravioli Angelo,15,292.5
+1998,3,Confections,Pavlova,55,959.75
+1998,3,Beverages,Guaran¨¢ Fant¨¢stica,20,90
+1998,3,Seafood,Inlagd Sill,40,760
+1998,3,Confections,Pavlova,36,628.2
+1998,3,Seafood,Carnarvon Tigers,8,500
+1998,3,Dairy Products,Mascarpone Fabioli,35,1120
+1998,3,Dairy Products,Queso Cabrales,30,630
+1998,3,Confections,Sir Rodney's Marmalade,15,1215
+1998,3,Beverages,Lakkalik??ri,10,180
+1998,3,Condiments,Original Frankfurter gr¨¹ne So?e,15,195
+1998,3,Produce,Uncle Bob's Organic Dried Pears,60,1800
+1998,3,Beverages,Ipoh Coffee,6,276
+1998,3,Dairy Products,Mozzarella di Giovanni,20,696
+1998,3,Produce,Uncle Bob's Organic Dried Pears,60,1800
+1998,3,Confections,Tarte au sucre,40,1972
+1998,3,Condiments,Grandma's Boysenberry Spread,40,1000
+1998,3,Dairy Products,Queso Cabrales,15,315
+1998,3,Seafood,Jack's New England Clam Chowder,4,38.6
+1998,4,Confections,Sir Rodney's Scones,65,650
+1998,4,Beverages,Sasquatch Ale,60,840
+1998,4,Meat/Poultry,P?t¨¦ chinois,65,1560
+1998,4,Condiments,Sirop d'¨¦rable,66,1881
+1998,4,Beverages,Chang,50,950
+1998,4,Beverages,Outback Lager,20,300
+1998,4,Beverages,Lakkalik??ri,90,1620
+1998,4,Dairy Products,Mozzarella di Giovanni,2,69.6
+1998,4,Meat/Poultry,Th¨¹ringer Rostbratwurst,50,6189.5
+1998,4,Seafood,Jack's New England Clam Chowder,35,337.75
+1998,4,Dairy Products,Raclette Courdavault,18,990
+1998,4,Produce,Manjimup Dried Apples,20,1060
+1998,4,Dairy Products,Camembert Pierrot,4,136
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,40,560
+1998,4,Dairy Products,Mascarpone Fabioli,50,1600
+1998,4,Seafood,Spegesild,20,240
+1998,4,Grains/Cereals,Filo Mix,20,140
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,12,54
+1998,4,Condiments,Sirop d'¨¦rable,7,199.5
+1998,4,Produce,Longlife Tofu,20,200
+1998,4,Beverages,Rh?nbr?u Klosterbier,30,232.5
+1998,4,Seafood,Jack's New England Clam Chowder,20,193
+1998,4,Produce,Manjimup Dried Apples,15,795
+1998,4,Condiments,Original Frankfurter gr¨¹ne So?e,21,273
+1998,4,Condiments,Chef Anton's Cajun Seasoning,25,550
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,30,135
+1998,4,Condiments,Original Frankfurter gr¨¹ne So?e,30,390
+1998,4,Produce,Uncle Bob's Organic Dried Pears,60,1800
+1998,4,Grains/Cereals,Gustaf's Kn?ckebr?d,25,525
+1998,4,Seafood,Spegesild,25,300
+1998,4,Meat/Poultry,P?t¨¦ chinois,6,144
+1998,4,Seafood,Konbu,56,336
+1998,4,Beverages,Steeleye Stout,15,270
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,24,336
+1998,4,Meat/Poultry,P?t¨¦ chinois,40,960
+1998,4,Beverages,Chai,4,72
+1998,4,Seafood,Boston Crab Meat,10,184
+1998,4,Grains/Cereals,Filo Mix,10,70
+1998,4,Confections,Gumb?r Gummib?rchen,6,187.38
+1998,4,Beverages,Lakkalik??ri,6,108
+1998,4,Beverages,Chai,2,36
+1998,4,Dairy Products,Raclette Courdavault,10,550
+1998,4,Beverages,Chai,8,144
+1998,4,Meat/Poultry,Th¨¹ringer Rostbratwurst,2,247.58
+1998,4,Condiments,Northwoods Cranberry Sauce,30,1200
+1998,4,Meat/Poultry,Th¨¹ringer Rostbratwurst,10,1237.9
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,14,196
+1998,4,Produce,R?ssle Sauerkraut,70,3192
+1998,4,Beverages,Sasquatch Ale,90,1260
+1998,4,Dairy Products,Flotemysost,21,451.5
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,12,54
+1998,4,Seafood,Inlagd Sill,18,342
+1998,4,Dairy Products,Camembert Pierrot,9,306
+1998,4,Produce,Uncle Bob's Organic Dried Pears,20,600
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,10,45
+1998,4,Seafood,Escargots de Bourgogne,40,530
+1998,4,Dairy Products,Flotemysost,20,430
+1998,4,Confections,Teatime Chocolate Biscuits,50,460
+1998,4,Dairy Products,Camembert Pierrot,36,1224
+1998,4,Dairy Products,Flotemysost,60,1290
+1998,4,Grains/Cereals,Tunnbr?d,10,90
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,4,56
+1998,4,Seafood,Rogede sild,20,190
+1998,4,Confections,Scottish Longbreads,2,25
+1998,4,Seafood,Jack's New England Clam Chowder,28,270.2
+1998,4,Seafood,Nord-Ost Matjeshering,15,388.35
+1998,4,Condiments,Original Frankfurter gr¨¹ne So?e,18,234
+1998,4,Dairy Products,Gorgonzola Telino,15,187.5
+1998,4,Seafood,Inlagd Sill,16,304
+1998,4,Condiments,Aniseed Syrup,25,250
+1998,4,Dairy Products,Raclette Courdavault,110,6050
+1998,4,Beverages,Outback Lager,30,450
+1998,4,Dairy Products,Queso Manchego La Pastora,20,760
+1998,4,Seafood,Carnarvon Tigers,10,625
+1998,4,Grains/Cereals,Gnocchi di nonna Alice,5,190
+1998,4,Seafood,Spegesild,3,36
+1998,4,Confections,Maxilaku,2,40
+1998,4,Seafood,Ikura,24,744
+1998,4,Beverages,Chang,11,209
+1998,4,Confections,Sir Rodney's Marmalade,15,1215
+1998,4,Confections,Gumb?r Gummib?rchen,63,1967.49
+1998,4,Produce,Manjimup Dried Apples,44,2332
+1998,4,Dairy Products,Mozzarella di Giovanni,35,1218
+1998,4,Confections,Teatime Chocolate Biscuits,35,322
+1998,4,Dairy Products,Gudbrandsdalsost,30,1080
+1998,4,Produce,Uncle Bob's Organic Dried Pears,4,120
+1998,4,Beverages,Ipoh Coffee,30,1380
+1998,4,Confections,Gumb?r Gummib?rchen,12,374.76
+1998,4,Dairy Products,Geitost,30,75
+1998,4,Condiments,Louisiana Fiery Hot Pepper Sauce,21,442.05
+1998,4,Dairy Products,Flotemysost,50,1075
+1998,4,Beverages,Chai,10,180
+1998,4,Seafood,Konbu,20,120
+1998,4,Seafood,Carnarvon Tigers,8,500
+1998,4,Produce,Manjimup Dried Apples,10,530
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,30,135
+1998,4,Confections,Tarte au sucre,21,1035.3
+1998,4,Meat/Poultry,P?t¨¦ chinois,35,840
+1998,4,Dairy Products,Raclette Courdavault,24,1320
+1998,4,Grains/Cereals,Gnocchi di nonna Alice,20,760
+1998,4,Condiments,Vegie-spread,12,526.8
+1998,4,Beverages,Chang,100,1900
+1998,4,Condiments,Chef Anton's Gumbo Mix,70,1494.5
+1998,4,Meat/Poultry,Th¨¹ringer Rostbratwurst,60,7427.4
+1998,4,Dairy Products,Raclette Courdavault,100,5500
+1998,4,Beverages,Chai,45,810
+1998,4,Seafood,Konbu,80,480
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,21,94.5
+1998,4,Grains/Cereals,Wimmers gute Semmelkn?del,20,665
+1998,4,Dairy Products,Flotemysost,16,344
+1998,4,Seafood,Inlagd Sill,35,665
+1998,4,Beverages,C?te de Blaye,25,6587.5
+1998,4,Dairy Products,Raclette Courdavault,30,1650
+1998,4,Meat/Poultry,Perth Pasties,70,2296
+1998,4,Dairy Products,Gudbrandsdalsost,36,1296
+1998,4,Confections,Sir Rodney's Scones,15,150
+1998,4,Condiments,Gula Malacca,12,233.4
+1998,4,Condiments,Sirop d'¨¦rable,6,171
+1998,4,Beverages,Chai,10,180
+1998,4,Beverages,Steeleye Stout,60,1080
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,30,420
+1998,4,Meat/Poultry,Tourti¨¨re,10,74.5
+1998,4,Seafood,Konbu,7,42
+1998,4,Dairy Products,Raclette Courdavault,30,1650
+1998,4,Beverages,Outback Lager,4,60
+1998,4,Seafood,Boston Crab Meat,5,92
+1998,4,Grains/Cereals,Filo Mix,2,14
+1998,4,Dairy Products,Flotemysost,30,645
+1998,4,Produce,R?ssle Sauerkraut,20,912
+1998,4,Beverages,Steeleye Stout,24,432
+1998,4,Confections,Maxilaku,60,1200
+1998,4,Grains/Cereals,Ravioli Angelo,28,546
+1998,4,Confections,Sir Rodney's Scones,20,200
+1998,4,Beverages,Chang,30,570
+1998,4,Condiments,Vegie-spread,30,1317
+1998,4,Condiments,Gula Malacca,15,291.75
+1998,4,Condiments,Sirop d'¨¦rable,4,114
+1998,4,Dairy Products,Queso Cabrales,10,210
+1998,4,Confections,Tarte au sucre,12,591.6
+1998,4,Dairy Products,Geitost,15,37.5
+1998,4,Produce,Manjimup Dried Apples,24,1272
+1998,4,Dairy Products,Queso Manchego La Pastora,20,760
+1998,4,Dairy Products,Mascarpone Fabioli,15,480
+1998,4,Beverages,Steeleye Stout,18,324
+1998,4,Beverages,Chai,25,450
+1998,4,Condiments,Chef Anton's Gumbo Mix,30,640.5
+1998,4,Confections,Scottish Longbreads,42,525
+1998,4,Beverages,Chang,10,190
+1998,4,Dairy Products,Queso Manchego La Pastora,4,152
+1998,4,Beverages,Lakkalik??ri,50,900
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,10,45
+1998,4,Beverages,Ipoh Coffee,30,1380
+1998,4,Condiments,Sirop d'¨¦rable,10,285
+1998,4,Seafood,Carnarvon Tigers,35,2187.5
+1998,4,Dairy Products,Mascarpone Fabioli,20,640
+1998,4,Grains/Cereals,Wimmers gute Semmelkn?del,25,831.25
+1998,4,Dairy Products,Geitost,10,25
+1998,4,Beverages,Laughing Lumberjack Lager,20,280
+1998,4,Beverages,Guaran¨¢ Fant¨¢stica,15,67.5
+1998,4,Confections,NuNuCa Nu?-Nougat-Creme,15,210
+1998,4,Produce,Manjimup Dried Apples,20,1060
+1998,4,Grains/Cereals,Ravioli Angelo,20,390
+1998,4,Produce,Uncle Bob's Organic Dried Pears,40,1200
+1998,4,Meat/Poultry,P?t¨¦ chinois,35,840
+1998,4,Dairy Products,Camembert Pierrot,50,1700
+1998,4,Beverages,Outback Lager,3,45
+1998,4,Confections,Sir Rodney's Scones,3,30
+1998,4,Dairy Products,Camembert Pierrot,21,714
+1998,4,Condiments,Sirop d'¨¦rable,4,114
+1998,4,Seafood,Konbu,30,180
+1998,4,Meat/Poultry,Alice Mutton,12,468
+1998,4,Dairy Products,Camembert Pierrot,35,1190
+1998,4,Dairy Products,Camembert Pierrot,4,136
+1998,4,Condiments,Original Frankfurter gr¨¹ne So?e,10,130
+1998,4,Dairy Products,Camembert Pierrot,15,510
+1998,4,Meat/Poultry,Perth Pasties,10,328
+1998,4,Beverages,Outback Lager,12,180
+1998,4,Beverages,Sasquatch Ale,30,420
+1998,4,Seafood,Boston Crab Meat,40,736
+1998,4,Seafood,Jack's New England Clam Chowder,30,289.5
+1998,5,Meat/Poultry,Alice Mutton,77,3003
+1998,5,Seafood,Jack's New England Clam Chowder,12,115.8
+1998,5,Meat/Poultry,Perth Pasties,25,820
+1998,5,Meat/Poultry,P?t¨¦ chinois,4,96
+1998,5,Confections,Scottish Longbreads,55,687.5
+1998,5,Seafood,Nord-Ost Matjeshering,4,103.56
+1998,5,Meat/Poultry,Tourti¨¨re,20,149
+1998,5,Confections,Pavlova,3,52.35
+1998,5,Confections,Teatime Chocolate Biscuits,42,386.4
+1998,5,Beverages,Sasquatch Ale,35,490
+1998,5,Seafood,Jack's New England Clam Chowder,9,86.85
+1998,5,Produce,R?ssle Sauerkraut,8,364.8
+1998,5,Beverages,Ipoh Coffee,36,1656
+1998,5,Condiments,Original Frankfurter gr¨¹ne So?e,28,364
+1998,5,Beverages,Chartreuse verte,20,360
+1998,5,Beverages,Chai,40,720
+1998,5,Beverages,Chang,20,380
+1998,5,Confections,Pavlova,30,523.5
+1998,5,Dairy Products,Gorgonzola Telino,20,250
+1998,5,Produce,Uncle Bob's Organic Dried Pears,15,450
+1998,5,Seafood,Konbu,10,60
+1998,5,Beverages,Chang,8,152
+1998,5,Seafood,Jack's New England Clam Chowder,40,386
+1998,5,Confections,Valkoinen suklaa,22,357.5
+1998,5,Grains/Cereals,Wimmers gute Semmelkn?del,130,4322.5
+1998,5,Dairy Products,Queso Cabrales,10,210
+1998,5,Beverages,Guaran¨¢ Fant¨¢stica,20,90
+1998,5,Confections,Pavlova,14,244.3
+1998,5,Beverages,Chang,10,190
+1998,5,Seafood,Spegesild,30,360
+1998,5,Beverages,Lakkalik??ri,2,36
+1998,5,Condiments,Grandma's Boysenberry Spread,20,500
+1998,5,Produce,Tofu,20,465
+1998,5,Confections,Teatime Chocolate Biscuits,10,92
+1998,5,Beverages,Chang,24,456
+1998,5,Condiments,Aniseed Syrup,4,40
+1998,5,Condiments,Chef Anton's Cajun Seasoning,1,22
+1998,5,Condiments,Grandma's Boysenberry Spread,1,25
+1998,5,Produce,Uncle Bob's Organic Dried Pears,1,30
+1998,5,Condiments,Northwoods Cranberry Sauce,2,80
+1998,5,Seafood,Ikura,1,31
+1998,5,Dairy Products,Queso Manchego La Pastora,2,76
+1998,5,Seafood,Konbu,4,24
+1998,5,Produce,Tofu,1,23.25
+1998,5,Confections,Pavlova,2,34.9
+1998,5,Confections,Sir Rodney's Marmalade,1,81
+1998,5,Grains/Cereals,Tunnbr?d,2,18
+1998,5,Dairy Products,Mascarpone Fabioli,1,32
+1998,5,Beverages,Chartreuse verte,2,36
+1998,5,Seafood,Jack's New England Clam Chowder,3,28.95
+1998,5,Seafood,Spegesild,3,36
+1998,5,Grains/Cereals,Filo Mix,2,14
+1998,5,Meat/Poultry,P?t¨¦ chinois,2,48
+1998,5,Dairy Products,Camembert Pierrot,2,68
+1998,5,Grains/Cereals,Wimmers gute Semmelkn?del,2,66.5
+1998,5,Condiments,Louisiana Hot Spiced Okra,1,17
+1998,5,Seafood,R?d Kaviar,2,30
+1998,5,Beverages,Rh?nbr?u Klosterbier,4,31
+1998,5,Condiments,Original Frankfurter gr¨¹ne So?e,2,26
+2008,1,Beverages,Chang,1,11

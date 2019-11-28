@@ -56,5 +56,7 @@ print(x)
 #（4）	获取A1~A4最大数据的采集人
 print('------------------------------------------------')
 x = d.max(0)
+print(d==x)
 t = np.where(d == x, True, False).T
+print(np.where(d == x, True, False).T)
 print(np.concatenate((n[t[0]], n[t[1]], n[t[2]], n[t[3]])))
