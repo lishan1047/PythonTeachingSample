@@ -16,8 +16,8 @@ print(data1.ProductName.sort_values().unique())
 
 # （2）      求解销售相关性最强的两个产品。
 grouped = data.loc[:,\
-    ['OrderYear','OrderMonth','Quantity']].groupby(\ 
-    data.ProductName)
+    ['OrderYear','OrderMonth','Quantity']].groupby( \
+        data.ProductName)
 
 carr = []
 
@@ -37,7 +37,6 @@ for (pn1), group1 in grouped:
         g2 = pd.DataFrame(g2)
         prod = g1.merge(g2, \
             left_index=True,right_index=True)
-        print(prod)
         c = prod.loc[:,'Quantity_x'].corr(prod.loc[:,'Quantity_y'])
         carr.append({'p':(pn1,pn2),'c':c})
 
@@ -45,3 +44,16 @@ carr = pd.DataFrame(carr)
 print(carr.head())
 print(carr.sort_values(by=['c'], ascending=False).head())
 
+# （3）      求解销售业绩波动最小的产品。
+carr = []
+for pn, group in grouped:
+    g = pd.DataFrame(group, \
+        columns=['OrderYear','OrderMonth','Quantity'])
+    g = g.Quantity.groupby( \
+        [g.OrderYear,g.OrderMonth]).sum()
+    g = pd.DataFrame(g)
+    v = g.Quantity.std()
+    carr.append({'p':pn,'v':v})
+
+carr = pd.DataFrame(carr)
+print(carr.sort_values(by=['v']))
