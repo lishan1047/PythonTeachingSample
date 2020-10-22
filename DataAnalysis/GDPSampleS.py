@@ -33,7 +33,7 @@ import matplotlib.pyplot as plt
 
 matplotlib.rc('font', **{'family' : 'SimHei'})
 
-df[0:10].plot(x='国家名称', y='GDP总量(人民币亿元)', kind='bar')
+df[0:10].plot(x='国家/地区', y='GDP总量(人民币亿元)', kind='bar')
 
 plt.show()
 

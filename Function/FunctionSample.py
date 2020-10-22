@@ -55,6 +55,14 @@ x = catList(catList([1,2,3],[4,5,6]),[7,8,9])
 print(x)
 print(catList(catList([1,2,3],[4,5,6]),[7,8,9]))
 
+def Fibonacci(n):
+    list = [0, 1]
+    for i in range(2, n):
+        list.append(list[i-1]+list[i-2])
+    return list
+
+print(Fibonacci(5))
+
 """
 3. Recursive Invoking of Function.
 """
