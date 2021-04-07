@@ -1,13 +1,7 @@
 import numpy as np
 import pandas as pd
 
-years = [1996,1997,1998]
-months = range(1,13)
 
-times = []
-for y in years:
-    for m in months:
-        times.append({'OrderYear':y,'OrderMonth':m})
 
 data = pd.read_table('C:/MyFiles/eIvy/Teaching/PythonTeachingSample/DataAnalysis/Northwind.txt', sep=',')
 
@@ -25,6 +19,14 @@ print(konbu.Price.mean())
 print(konbu.Quantity.mean())
 
 # （4）	计算 Konbu 和 Tofu 两个产品的相关系数。
+years = [1996,1997,1998]
+months = range(1,13)
+
+times = []
+for y in years:
+    for m in months:
+        times.append({'OrderYear':y,'OrderMonth':m})
+
 for ym in times:
     temp = konbu[(konbu.OrderYear == ym['OrderYear']) & (konbu.OrderMonth == ym['OrderMonth'])]
     if temp.empty:
@@ -42,13 +44,9 @@ for ym in times:
 
 konbu = t
 
-#print(konbu.sort_values(by=['OrderYear','OrderMonth']))
-
 t = pd.DataFrame()
 
-#（2）	查询出 Tofu 产品数据
 tofu = data[data.ProductName == 'Tofu']
-print(tofu)
 
 for ym in times:
     temp = tofu[(tofu.OrderYear == ym['OrderYear']) & (tofu.OrderMonth == ym['OrderMonth'])]
@@ -67,12 +65,8 @@ for ym in times:
 
 tofu = t
 
-#print(tofu.sort_values(by=['OrderYear','OrderMonth']))
-
 prod = konbu.merge(tofu, left_on=['OrderYear','OrderMonth'], \
     right_on=['OrderYear','OrderMonth'])
-
-#print(prod.head())
 
 prod = prod.loc[:,['OrderYear','OrderMonth','Quantity_x','Quantity_y']]
 
