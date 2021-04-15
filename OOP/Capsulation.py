@@ -31,6 +31,11 @@ class Person:
         return self.__name
     def GetGender(self):
         return self.__gender
+    def ChangeName(self, newName):
+        if(self.__gender == Gender.Male):
+            print('Deny change.')
+        else:
+            self.__name = newName
 
 p = Person('Liu', Gender.Male)
 

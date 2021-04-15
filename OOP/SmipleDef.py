@@ -16,14 +16,18 @@ class Person:
         return self.Name
     def GetGender(self):
         return self.Gender
+    def __str__(self):
+        return '{0} is {1}'.format(self.Name, self.Gender)
 
 p = Person()
 p.Name = "Liu"
 p.Gender = "Male"
 
-print('{0} is {1}'.format(p.GetName(), p.GetGender()))
+#print('{0} is {1}'.format(p.GetName(), p.GetGender()))
 
-print('{0} is {1}'.format(p.Name, p.Gender))
+#print('{0} is {1}'.format(p.Name, p.Gender))
+
+print(p)
 
 class Chinese:
     def __init__(self):

@@ -31,3 +31,18 @@ print(tofu)
 
 print(konbu.corr(tofu))
 
+## 上述做法没有对齐数据
+## 现在需要对齐数据
+
+konbu = data[data.ProductName == 'Konbu'].groupby( \
+    [data.OrderYear, data.OrderMonth])['Quantity'].sum().reset_index()
+print(konbu)
+
+tofu = data[data.ProductName == 'Tofu'].groupby( \
+    [data.OrderYear, data.OrderMonth])['Quantity'].sum().reset_index()
+print(tofu)
+
+joined = pd.merge(konbu, tofu, on=['OrderYear','OrderMonth'], suffixes=['_konbu','_tofu'])
+print(joined)
+
+print(joined['Quantity_konbu'].corr(joined['Quantity_tofu']))
