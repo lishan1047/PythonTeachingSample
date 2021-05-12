@@ -14,8 +14,6 @@ konbu = data[data.ProductName == 'Konbu']
 print(konbu)
 
 #（3）	求解上述两个产品的平均售价、销售量
-konbu['Price'] = konbu['Sales'] /konbu['Quantity']
-print(konbu.Price.mean())
 print(konbu.Quantity.mean())
 
 # （4）	计算 Konbu 和 Tofu 两个产品的相关系数。

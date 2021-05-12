@@ -14,7 +14,7 @@ data1 = data[((data.OrderYear == 1997) & \
     (data.OrderMonth == 3))]
 print(data1.ProductName.sort_values().unique())
 
-# （2）      求解销售相关性最强的两个产品。
+# （2）      求解销售相关性最强的两个产品。（解法一）
 grouped = data.loc[:,\
     ['OrderYear','OrderMonth','Quantity']].groupby( \
         data.ProductName)

@@ -59,7 +59,7 @@ data = pd.read_table('Northwind.txt',sep=',')
 
 #绘制所有产品月度平均销售额折线图
 data.Sales.groupby( \
-    [data.OrderYear,data.OrderMonth]).sum().plot()
+    [data.OrderYear,data.OrderMonth]).mean().plot()
 plt.show()
 
 #绘制所有产品月度平均销售额与销售量对比图
